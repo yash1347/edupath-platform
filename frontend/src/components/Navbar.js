@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="nav-shell">
       <div className="nav-bar">
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--primary-deep)', letterSpacing: '-0.02em' }}>EduPath AI</span>
+          <span style={{ fontSize: '1.25rem', fontWeight: 800, color: 'var(--primary-deep)', letterSpacing: '-0.02em' }}>EDUPATH</span>
           <span className="eyebrow" style={{ margin: 0, padding: '4px 8px', fontSize: '0.65rem' }}>BETA</span>
         </div>
         <div className="nav-links">

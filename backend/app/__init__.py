@@ -1,1 +1,1 @@
-"""EduPath AI backend package."""
+"""EDUPATH backend package."""

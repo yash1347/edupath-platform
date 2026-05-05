@@ -8,3 +8,6 @@ openai
 passlib[bcrypt]
 python-jose[cryptography]
 python-multipart
+scikit-learn
+pandas
+joblib

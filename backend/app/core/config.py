@@ -18,9 +18,16 @@ class Settings:
 @lru_cache
 def get_settings() -> Settings:
     cors_origins = os.getenv("CORS_ORIGINS", "http://localhost:3000,http://127.0.0.1:3000")
+    db_url = os.getenv("DATABASE_URL", "sqlite:///./EDUPATH_ai.db")
+    
+    if db_url.startswith("postgres://"):
+        db_url = db_url.replace("postgres://", "postgresql+psycopg://", 1)
+    elif db_url.startswith("postgresql://"):
+        db_url = db_url.replace("postgresql://", "postgresql+psycopg://", 1)
+        
     return Settings(
-        app_name="EduPath AI API",
+        app_name="EDUPATH API",
         api_prefix="/api/v1",
-        database_url=os.getenv("DATABASE_URL", "sqlite:///./edupath_ai.db"),
-        cors_origins=[origin.strip() for origin in cors_origins.split(",") if origin.strip()],
+        database_url=db_url,
+        cors_origins=["*"],
     )

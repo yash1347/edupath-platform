@@ -42,6 +42,11 @@ export async function fetchOpportunities() {
   return response.data;
 }
 
+export async function fetchGovtJobs() {
+  const response = await client.get("/api/v1/govt-jobs");
+  return response.data;
+}
+
 export async function adminLogin(payload) {
   const response = await client.post("/api/v1/admin/login", payload);
   return response.data;
@@ -49,6 +54,20 @@ export async function adminLogin(payload) {
 
 export async function fetchAdminUsers(token) {
   const response = await client.get("/api/v1/admin/users", {
+    headers: { Authorization: `Bearer ${token}` }
+  });
+  return response.data;
+}
+
+export async function fetchAdminCareers(token) {
+  const response = await client.get("/api/v1/admin/careers", {
+    headers: { Authorization: `Bearer ${token}` }
+  });
+  return response.data;
+}
+
+export async function updateRoadmapStep(token, stepId, payload) {
+  const response = await client.put(`/api/v1/admin/roadmap-steps/${stepId}`, payload, {
     headers: { Authorization: `Bearer ${token}` }
   });
   return response.data;

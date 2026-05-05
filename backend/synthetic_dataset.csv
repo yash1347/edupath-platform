@@ -1,0 +1,2001 @@
+maths,physics,chemistry,biology,interests,skills,education_level,career
+72,83,85,81,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+71,76,40,57,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+79,42,64,45,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+92,89,54,59,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+84,40,57,50,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+79,88,52,70,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+79,79,70,56,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+86,65,69,60,"strategy, operations","networking, strategy",Graduation,business-manager
+53,85,86,90,"science, patients","empathy, memory",Graduation,healthcare-professional
+90,95,53,52,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+82,73,43,70,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+80,43,44,68,"strategy, operations","communication, leadership",Graduation,business-manager
+73,65,56,46,"leadership, business, startups","networking, strategy",Graduation,business-manager
+64,76,79,85,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+75,75,59,56,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+92,40,45,50,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+84,65,52,46,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+89,79,53,41,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+87,57,43,41,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+65,50,49,69,"strategy, operations","communication, leadership",Graduation,business-manager
+93,41,57,41,"strategy, operations","networking, strategy",Graduation,business-manager
+50,74,78,95,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+61,79,59,63,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+97,95,60,47,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+91,86,49,62,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+77,67,98,98,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+75,86,50,60,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+66,59,69,63,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+94,81,54,57,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+66,92,65,57,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+66,74,68,56,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+47,70,77,84,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+77,70,66,40,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+42,65,77,100,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+93,49,42,66,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+86,83,71,48,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+93,56,56,68,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+47,67,88,98,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+81,92,59,67,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+61,41,58,41,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+64,79,99,96,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+76,83,93,94,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+76,95,88,88,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+74,49,41,67,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+62,64,71,58,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+89,88,73,62,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+89,81,74,46,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+51,65,94,91,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+57,86,81,86,"science, patients","biology, chemistry",12th,healthcare-professional
+57,68,45,70,"law, debate, justice","reading, communication",12th,corporate-lawyer
+100,58,57,62,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+86,76,57,56,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+86,43,40,61,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+100,77,66,68,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+85,68,72,51,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+83,77,58,60,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+93,54,44,50,"strategy, operations","networking, strategy",Postgraduate,business-manager
+91,70,47,68,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+98,80,62,45,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+87,81,75,51,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+68,60,66,58,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+85,68,56,48,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+89,62,51,55,"strategy, operations","communication, leadership",Graduation,business-manager
+95,56,52,53,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+60,77,64,62,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+49,56,51,65,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+80,83,70,47,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+75,66,58,60,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+67,73,40,43,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+64,44,54,48,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+91,43,51,46,"strategy, operations","networking, strategy",Postgraduate,business-manager
+69,74,44,46,"internet, building websites","creativity, coding",12th,full-stack-web-developer
+89,51,57,68,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+87,80,60,41,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+63,71,55,59,"coding, UI/UX","react, node",10th,full-stack-web-developer
+80,55,68,42,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+78,60,69,44,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+55,56,56,54,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+75,49,62,54,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+90,78,58,54,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+63,78,46,40,"marketing, management, sales","networking, strategy",Graduation,business-manager
+87,58,63,51,"coding, UI/UX","react, node",12th,full-stack-web-developer
+90,88,52,68,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+75,79,48,42,"strategy, operations","communication, leadership",Postgraduate,business-manager
+79,87,50,46,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+90,57,48,50,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+91,42,45,45,"finance, money, business","hard work, memory",12th,chartered-accountant
+51,93,99,99,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+79,72,71,66,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+86,77,54,40,"economics, stock market","numbers, accounting",12th,chartered-accountant
+82,85,61,52,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+77,71,65,50,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+99,73,77,43,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+96,92,78,47,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+71,72,58,69,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+97,61,62,55,"research, trends","statistics, excel",Graduation,data-scientist
+91,60,62,61,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+80,81,80,42,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+85,43,47,69,"leadership, business, startups","communication, leadership",Graduation,business-manager
+100,87,59,52,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+66,50,65,64,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+74,51,64,69,"business law, arguments","reading, communication",12th,corporate-lawyer
+78,72,62,48,"internet, building websites","react, node",12th,full-stack-web-developer
+88,75,50,62,"research, trends","sql, python",Graduation,data-scientist
+92,72,76,59,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+76,90,79,97,"science, patients","biology, chemistry",12th,healthcare-professional
+41,65,82,89,"science, patients","biology, chemistry",Graduation,healthcare-professional
+85,60,72,69,"internet, building websites","react, node",Graduation,full-stack-web-developer
+45,68,64,41,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+77,79,49,55,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+90,77,72,53,"research, trends",data visualization,Postgraduate,data-scientist
+81,65,60,43,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+86,75,57,66,"research, trends",data visualization,Graduation,data-scientist
+56,51,61,66,"business law, arguments","reading, communication",12th,corporate-lawyer
+96,73,79,57,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+45,76,96,89,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+87,65,51,65,"leadership, business, startups","communication, leadership",Graduation,business-manager
+85,87,69,56,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+65,49,65,66,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+54,47,57,45,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+95,65,58,61,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+61,46,66,57,"leadership, business, startups","communication, leadership",Graduation,business-manager
+69,79,100,99,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+84,59,52,49,"finance, money, business","numbers, accounting",12th,chartered-accountant
+90,77,52,49,"finance, money, business","numbers, accounting",12th,chartered-accountant
+87,55,50,69,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+85,81,54,62,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+55,45,50,53,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+80,68,68,65,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+91,72,68,46,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+69,91,54,57,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+74,41,51,56,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+68,74,74,68,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+92,95,70,62,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+66,54,47,70,"leadership, business, startups","communication, leadership",Graduation,business-manager
+84,63,64,44,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+55,89,92,86,"science, patients","biology, chemistry",Graduation,healthcare-professional
+99,58,41,44,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+75,71,60,56,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+93,70,62,41,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+90,66,49,66,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+69,93,87,99,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+84,95,49,46,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+81,87,64,55,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+60,66,43,65,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+79,68,41,67,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+78,53,46,44,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+78,48,47,55,"marketing, management, sales","communication, leadership",Graduation,business-manager
+85,69,56,57,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+99,64,65,59,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+95,70,58,61,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+55,71,95,82,"science, patients","biology, chemistry",12th,healthcare-professional
+78,43,54,42,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+92,48,63,52,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+76,87,54,68,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+57,62,48,65,"law, debate, justice","reading, communication",12th,corporate-lawyer
+96,65,79,42,"business intelligence, numbers",data visualization,Graduation,data-scientist
+100,70,74,46,"research, trends","sql, python",Postgraduate,data-scientist
+90,60,69,60,"finance, money, business","numbers, accounting",12th,chartered-accountant
+91,75,76,59,"business intelligence, numbers",data visualization,Graduation,data-scientist
+88,90,65,50,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+50,94,97,83,"science, patients","empathy, memory",12th,healthcare-professional
+67,62,51,62,"strategy, operations","communication, leadership",Postgraduate,business-manager
+95,90,60,69,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+54,57,57,43,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+71,64,57,46,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+82,83,49,50,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+87,84,63,40,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+100,75,51,41,"business intelligence, numbers","sql, python",Graduation,data-scientist
+90,69,64,65,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+75,83,62,43,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+77,63,67,70,"leadership, business, startups","communication, leadership",Graduation,business-manager
+70,60,59,48,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+82,90,66,42,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+73,84,77,67,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+85,73,63,42,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+87,86,73,51,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+50,41,52,43,"business law, arguments","reading, communication",12th,corporate-lawyer
+67,44,52,52,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+96,67,51,48,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+68,52,59,46,"internet, building websites","react, node",10th,full-stack-web-developer
+73,81,44,41,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+95,64,50,52,"research, trends","sql, python",Postgraduate,data-scientist
+99,75,54,43,"programming, algorithms","c++, math",12th,ai-ml-engineer
+82,74,80,50,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+87,58,72,68,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+79,89,53,61,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+73,82,42,54,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+40,64,52,52,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+51,80,97,99,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+88,68,65,65,"business intelligence, numbers",data visualization,Graduation,data-scientist
+100,66,53,61,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+40,80,91,97,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+82,64,75,68,"internet, building websites","creativity, coding",12th,full-stack-web-developer
+67,52,71,57,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+89,60,80,60,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+88,78,76,44,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+75,47,62,40,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+98,87,63,64,"research, trends","statistics, excel",Graduation,data-scientist
+52,65,70,47,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+76,80,63,56,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+57,56,64,44,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+76,54,62,63,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+75,40,52,61,"economics, stock market","numbers, accounting",12th,chartered-accountant
+89,70,57,68,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+73,77,62,45,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+80,89,71,53,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+76,53,59,69,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+81,70,63,56,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+91,62,56,40,"finance, money, business","hard work, memory",12th,chartered-accountant
+48,63,56,41,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+71,84,89,97,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+90,66,44,54,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+99,66,60,66,"data, statistics, analytics",data visualization,Graduation,data-scientist
+93,78,66,62,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+91,80,50,68,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+76,42,60,59,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+51,83,81,90,"science, patients","biology, chemistry",Graduation,healthcare-professional
+50,65,84,82,"science, patients","biology, chemistry",12th,healthcare-professional
+91,58,68,65,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+43,76,82,99,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+80,93,92,87,"science, patients","biology, chemistry",Graduation,healthcare-professional
+46,65,78,81,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+71,60,50,69,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+72,78,73,69,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+100,84,51,53,"research, trends","statistics, excel",Graduation,data-scientist
+68,78,59,42,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+76,42,69,47,"leadership, business, startups","networking, strategy",Graduation,business-manager
+86,70,58,64,"data, statistics, analytics","sql, python",Graduation,data-scientist
+69,86,87,86,"science, patients","science, hard work",Graduation,healthcare-professional
+86,82,65,45,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+77,58,62,65,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+63,47,70,47,"business law, arguments","writing, analysis",12th,corporate-lawyer
+63,55,61,66,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+84,67,70,55,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+68,66,43,62,"leadership, business, startups","networking, strategy",Graduation,business-manager
+91,84,71,56,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+40,91,86,81,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+51,72,93,80,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+95,71,80,46,"business intelligence, numbers",data visualization,Graduation,data-scientist
+80,72,69,52,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+75,60,47,43,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+77,81,68,54,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+84,55,51,65,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+85,90,64,42,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+78,67,84,89,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+71,91,97,92,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+69,54,63,49,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+73,41,62,55,"law, debate, justice","reading, communication",12th,corporate-lawyer
+100,47,54,58,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+83,81,50,62,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+87,75,54,54,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+90,77,69,55,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+74,74,80,83,"science, patients","science, hard work",12th,healthcare-professional
+93,91,69,57,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+82,48,65,68,"marketing, management, sales","networking, strategy",Graduation,business-manager
+43,86,78,99,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+93,78,61,66,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+96,69,64,45,"business intelligence, numbers","sql, python",Graduation,data-scientist
+100,95,67,54,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+76,62,60,65,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+52,71,94,83,"science, patients","biology, chemistry",Graduation,healthcare-professional
+74,83,99,93,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+95,60,54,50,"finance, money, business","hard work, memory",12th,chartered-accountant
+46,60,47,43,"law, debate, justice","reading, communication",12th,corporate-lawyer
+42,67,76,95,"science, patients","biology, chemistry",Graduation,healthcare-professional
+70,75,58,54,"strategy, operations","networking, strategy",Graduation,business-manager
+86,70,67,55,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+78,86,75,65,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+75,44,47,68,"strategy, operations","networking, strategy",Graduation,business-manager
+85,67,46,58,"strategy, operations","communication, leadership",Postgraduate,business-manager
+46,73,80,99,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+89,93,55,50,"programming, algorithms","c++, math",12th,ai-ml-engineer
+82,94,59,48,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+90,55,40,44,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+80,70,51,48,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+98,60,73,61,"research, trends","statistics, excel",Graduation,data-scientist
+84,64,65,44,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+88,57,54,55,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+85,42,57,60,"strategy, operations","networking, strategy",Postgraduate,business-manager
+99,71,54,44,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+78,65,63,55,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+72,68,48,49,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+70,71,75,45,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+74,68,61,69,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+79,85,61,64,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+79,85,72,43,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+82,71,62,56,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+71,68,42,66,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+55,41,61,70,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+82,78,51,53,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+67,67,70,42,"coding, UI/UX","react, node",12th,full-stack-web-developer
+85,68,65,62,"research, trends","statistics, excel",Postgraduate,data-scientist
+99,93,52,58,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+73,58,59,52,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+83,73,62,60,"data, statistics, analytics","sql, python",Graduation,data-scientist
+89,71,54,49,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+95,79,61,46,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+88,86,45,43,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+92,72,74,50,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+96,80,67,57,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+96,73,74,57,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+90,69,68,43,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+66,80,54,45,"strategy, operations","communication, leadership",Postgraduate,business-manager
+86,66,73,70,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+91,51,64,48,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+45,94,82,98,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+91,76,52,47,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+99,40,42,66,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+83,44,70,58,"strategy, operations","communication, leadership",Graduation,business-manager
+77,62,52,68,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+72,58,42,54,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+70,72,44,49,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+87,69,65,47,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+90,65,70,58,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+96,64,49,61,"finance, money, business","hard work, memory",12th,chartered-accountant
+93,78,78,57,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+95,42,65,54,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+81,77,58,50,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+56,78,96,94,"science, patients","empathy, memory",12th,healthcare-professional
+93,89,66,47,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+99,84,78,51,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+92,83,65,63,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+94,92,69,59,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+75,43,67,61,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+81,53,54,40,"web design, apps, software","react, node",12th,full-stack-web-developer
+81,82,65,64,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+81,74,40,48,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+89,55,59,44,"strategy, operations","networking, strategy",Postgraduate,business-manager
+65,87,82,91,"science, patients","science, hard work",Graduation,healthcare-professional
+78,80,75,91,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+67,90,45,59,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+53,73,100,91,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+86,72,80,43,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+75,82,76,68,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+78,62,50,66,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+94,83,56,49,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+94,71,59,43,"research, trends","sql, python",Graduation,data-scientist
+85,53,63,57,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+47,73,88,87,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+68,48,64,52,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+49,50,69,66,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+69,50,50,51,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+58,67,93,82,"science, patients","biology, chemistry",Graduation,healthcare-professional
+99,79,56,66,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+92,65,63,41,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+99,76,64,40,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+66,60,57,55,"strategy, operations","communication, leadership",Graduation,business-manager
+57,48,42,61,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+88,81,68,69,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+91,77,46,55,"strategy, operations","networking, strategy",Postgraduate,business-manager
+95,57,62,68,"marketing, management, sales","networking, strategy",Graduation,business-manager
+98,86,51,40,"research, trends",data visualization,Graduation,data-scientist
+66,62,62,40,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+100,95,78,64,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+99,91,56,63,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+99,78,71,67,"research, trends",data visualization,Graduation,data-scientist
+67,58,69,46,"strategy, operations","communication, leadership",Postgraduate,business-manager
+87,80,67,58,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+99,66,63,65,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+77,45,64,51,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+70,53,50,58,"marketing, management, sales","communication, leadership",Graduation,business-manager
+56,87,94,84,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+76,43,52,58,"strategy, operations","communication, leadership",Postgraduate,business-manager
+80,77,62,40,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+77,70,44,60,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+71,64,44,66,"law, debate, justice","reading, communication",12th,corporate-lawyer
+80,41,67,60,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+70,61,52,45,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+80,67,56,60,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+83,91,69,59,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+81,76,66,64,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+64,42,64,52,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+81,89,59,45,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+68,64,59,49,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+94,86,59,53,"research, trends",data visualization,Postgraduate,data-scientist
+91,65,43,53,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+83,64,63,51,"research, trends",data visualization,Postgraduate,data-scientist
+69,83,62,48,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+92,72,53,61,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+84,73,57,43,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+92,79,57,52,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+63,69,78,98,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+99,72,66,67,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+88,80,46,40,"economics, stock market","hard work, memory",12th,chartered-accountant
+45,55,49,51,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+95,93,80,70,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+48,72,86,90,"science, patients","empathy, memory",12th,healthcare-professional
+83,86,79,63,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+63,61,54,57,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+56,82,78,94,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+71,44,68,68,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+64,68,44,56,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+79,47,65,50,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+63,90,80,96,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+98,72,64,51,"research, trends","statistics, excel",Postgraduate,data-scientist
+65,63,46,65,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+74,73,83,99,"science, patients","empathy, memory",12th,healthcare-professional
+79,88,52,69,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+94,40,50,55,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+93,46,45,62,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+99,71,62,70,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+84,64,75,63,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+69,56,44,42,"leadership, business, startups","communication, leadership",Graduation,business-manager
+87,78,69,66,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+77,63,57,48,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+60,44,65,66,"business law, arguments","reading, communication",12th,corporate-lawyer
+50,61,45,48,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+84,78,58,68,"programming, algorithms","c++, math",12th,ai-ml-engineer
+73,60,64,64,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+87,87,71,66,"research, trends","sql, python",Graduation,data-scientist
+97,61,57,40,"research, trends","sql, python",Graduation,data-scientist
+64,84,52,67,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+75,74,60,47,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+89,80,58,42,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+89,81,50,44,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+77,74,79,49,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+49,78,97,82,"science, patients","empathy, memory",12th,healthcare-professional
+96,86,80,65,"data, statistics, analytics","sql, python",Graduation,data-scientist
+80,80,67,50,"economics, stock market","hard work, memory",12th,chartered-accountant
+83,42,60,43,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+71,71,62,58,"leadership, business, startups","networking, strategy",Graduation,business-manager
+75,76,75,69,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+64,55,64,62,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+89,79,58,53,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+69,50,48,45,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+77,60,52,48,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+75,60,45,53,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+77,93,55,46,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+96,70,78,51,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+84,80,70,49,"strategy, operations","networking, strategy",Postgraduate,business-manager
+65,80,75,66,"internet, building websites","react, node",10th,full-stack-web-developer
+93,59,44,70,"marketing, management, sales","networking, strategy",Graduation,business-manager
+97,75,60,56,"research, trends","sql, python",Postgraduate,data-scientist
+87,68,42,61,"economics, stock market","hard work, memory",12th,chartered-accountant
+94,50,57,43,"leadership, business, startups","communication, leadership",Graduation,business-manager
+91,78,50,48,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+89,62,51,43,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+85,66,66,66,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+90,71,74,62,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+77,93,60,51,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+98,66,59,40,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+48,52,51,54,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+69,57,62,59,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+95,69,57,45,"business intelligence, numbers",data visualization,Graduation,data-scientist
+66,77,40,53,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+79,68,65,69,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+41,87,86,93,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+57,66,89,84,"science, patients","science, hard work",Graduation,healthcare-professional
+70,90,83,89,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+63,55,43,54,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+87,68,60,61,"leadership, business, startups","communication, leadership",Graduation,business-manager
+82,51,51,64,"web design, apps, software","react, node",12th,full-stack-web-developer
+71,68,99,96,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+61,65,68,52,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+81,69,50,55,"leadership, business, startups","communication, leadership",Graduation,business-manager
+44,57,44,62,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+91,76,72,47,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+91,65,69,62,"research, trends","statistics, excel",Postgraduate,data-scientist
+67,64,65,66,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+60,60,46,67,"marketing, management, sales","networking, strategy",Graduation,business-manager
+44,82,95,80,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+96,77,70,43,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+61,67,42,57,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+88,74,75,62,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+65,43,48,46,"leadership, business, startups","communication, leadership",Graduation,business-manager
+52,66,66,69,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+98,81,76,61,"programming, algorithms","c++, math",12th,ai-ml-engineer
+63,65,65,45,"internet, building websites","react, node",12th,full-stack-web-developer
+65,88,91,82,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+89,67,67,66,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+46,91,93,85,"science, patients","science, hard work",12th,healthcare-professional
+61,94,85,100,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+98,82,66,40,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+80,83,53,50,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+94,90,64,49,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+61,43,40,48,"leadership, business, startups","communication, leadership",Graduation,business-manager
+81,71,51,52,"strategy, operations","communication, leadership",Postgraduate,business-manager
+65,77,61,68,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+61,58,63,51,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+68,73,89,96,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+87,70,72,44,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+75,83,50,58,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+89,62,68,42,"finance, money, business","hard work, memory",12th,chartered-accountant
+100,84,70,41,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+95,89,66,40,"research, trends","statistics, excel",Graduation,data-scientist
+61,66,65,54,"web design, apps, software","react, node",12th,full-stack-web-developer
+99,90,62,70,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+88,82,65,46,"coding, UI/UX","react, node",10th,full-stack-web-developer
+77,74,94,83,"science, patients","biology, chemistry",Graduation,healthcare-professional
+75,68,56,61,"law, debate, justice","reading, communication",12th,corporate-lawyer
+73,83,54,53,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+90,80,74,52,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+74,91,99,98,"science, patients","biology, chemistry",Graduation,healthcare-professional
+61,74,56,66,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+62,90,79,93,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+56,52,65,64,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+57,67,49,60,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+83,79,48,62,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+94,94,75,62,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+90,63,50,55,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+52,51,40,45,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+58,62,51,59,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+83,67,63,47,"leadership, business, startups","networking, strategy",Graduation,business-manager
+81,88,70,59,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+98,73,47,65,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+95,43,60,40,"finance, money, business","hard work, memory",12th,chartered-accountant
+71,63,68,43,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+79,79,42,48,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+66,40,52,64,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+97,82,61,47,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+93,79,49,59,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+90,83,53,48,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+88,57,47,50,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+50,45,69,61,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+73,83,49,63,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+75,85,80,62,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+98,77,74,56,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+64,80,69,41,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+40,65,47,43,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+98,63,67,43,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+60,55,49,61,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+44,49,40,54,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+64,73,41,70,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+65,63,67,59,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+47,41,51,61,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+45,69,78,95,"science, patients","biology, chemistry",12th,healthcare-professional
+76,85,51,64,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+95,62,64,57,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+95,94,59,48,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+85,86,77,49,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+85,44,66,47,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+55,60,45,53,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+77,67,56,42,"finance, money, business","numbers, accounting",12th,chartered-accountant
+63,81,82,82,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+82,89,61,42,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+68,79,66,55,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+44,57,51,68,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+90,54,42,48,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+75,91,63,54,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+91,76,57,52,"finance, money, business","hard work, memory",12th,chartered-accountant
+84,89,68,50,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+90,42,54,59,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+89,93,80,48,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+92,73,55,59,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+47,76,88,82,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+72,89,78,44,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+90,81,75,63,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+58,51,50,47,"business law, arguments","writing, analysis",12th,corporate-lawyer
+80,51,40,53,"web design, apps, software","react, node",12th,full-stack-web-developer
+68,72,47,58,"internet, building websites","react, node",10th,full-stack-web-developer
+92,49,48,59,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+64,48,48,40,"marketing, management, sales","networking, strategy",Graduation,business-manager
+74,79,44,47,"marketing, management, sales","networking, strategy",Graduation,business-manager
+76,74,79,80,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+73,80,44,47,"leadership, business, startups","communication, leadership",Graduation,business-manager
+84,80,55,45,"programming, algorithms","c++, math",12th,ai-ml-engineer
+94,66,63,55,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+95,82,59,60,"research, trends",data visualization,Postgraduate,data-scientist
+83,78,70,50,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+54,72,80,100,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+60,75,52,52,"leadership, business, startups","communication, leadership",Graduation,business-manager
+71,70,65,68,"internet, building websites","react, node",Graduation,full-stack-web-developer
+78,89,59,56,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+87,95,61,59,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+60,93,97,87,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+50,50,60,59,"business law, arguments","reading, communication",12th,corporate-lawyer
+74,52,55,45,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+66,55,57,43,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+87,93,63,44,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+84,64,56,61,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+86,70,65,66,"economics, stock market","hard work, memory",12th,chartered-accountant
+100,65,74,46,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+89,76,61,57,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+45,61,63,49,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+60,43,54,58,"business law, arguments","writing, analysis",12th,corporate-lawyer
+77,77,53,41,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+98,70,73,49,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+66,90,55,56,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+60,44,63,49,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+72,69,91,99,"science, patients","empathy, memory",12th,healthcare-professional
+46,50,58,62,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+88,76,77,70,"artificial intelligence, coding, robots","python, logical thinking",12th,ai-ml-engineer
+76,77,59,43,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+93,74,51,64,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+76,86,95,81,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+83,67,79,40,"research, trends",data visualization,Graduation,data-scientist
+95,90,63,67,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+90,51,53,41,"internet, building websites","react, node",Graduation,full-stack-web-developer
+54,77,83,93,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+56,67,98,92,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+80,77,62,70,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+43,86,89,83,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+56,55,53,69,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+69,78,66,40,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+77,79,55,43,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+68,84,40,66,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+81,53,67,54,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+58,68,97,97,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+80,79,67,46,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+96,43,58,65,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+91,93,51,51,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+65,72,69,68,"marketing, management, sales","communication, leadership",Graduation,business-manager
+88,66,63,67,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+77,66,86,86,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+76,87,50,57,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+88,58,68,50,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+60,84,70,66,"web design, apps, software","react, node",12th,full-stack-web-developer
+81,85,70,51,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+75,60,64,55,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+93,47,51,59,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+70,79,54,44,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+87,80,52,45,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+76,46,48,43,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+86,71,44,54,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+93,67,57,51,"data, statistics, analytics","sql, python",Graduation,data-scientist
+80,41,59,43,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+52,57,44,41,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+65,65,50,63,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+80,86,50,58,"programming, algorithms","c++, math",12th,ai-ml-engineer
+84,67,75,66,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+78,93,59,43,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+75,76,62,62,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+81,53,44,51,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+86,74,44,47,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+83,82,80,45,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+79,42,64,61,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+53,73,83,99,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+89,74,42,68,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+80,79,67,55,"research, trends","statistics, excel",Postgraduate,data-scientist
+54,90,86,95,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+87,54,58,56,"web design, apps, software","react, node",10th,full-stack-web-developer
+91,74,52,63,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+82,70,48,41,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+97,50,56,43,"economics, stock market","numbers, accounting",12th,chartered-accountant
+62,66,54,68,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+78,63,67,65,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+78,53,62,50,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+85,90,51,43,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+91,79,41,40,"marketing, management, sales","networking, strategy",Graduation,business-manager
+92,89,79,52,"data, statistics, analytics",data visualization,Graduation,data-scientist
+57,47,70,41,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+89,74,68,50,"artificial intelligence, coding, robots","python, logical thinking",12th,ai-ml-engineer
+68,68,64,44,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+95,77,57,65,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+80,83,61,50,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+90,52,44,48,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+94,52,66,49,"strategy, operations","communication, leadership",Graduation,business-manager
+72,66,50,61,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+83,59,58,68,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+85,75,53,49,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+79,51,55,57,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+46,66,65,49,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+93,80,70,50,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+85,70,74,56,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+81,90,63,54,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+77,56,46,70,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+67,52,54,46,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+70,93,54,66,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+72,67,68,43,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+76,92,100,98,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+81,85,78,52,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+67,40,69,52,"strategy, operations","networking, strategy",Graduation,business-manager
+74,83,94,90,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+87,77,63,55,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+91,65,63,62,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+79,64,50,43,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+86,90,66,55,"research, trends",data visualization,Graduation,data-scientist
+93,72,51,67,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+99,43,63,63,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+79,56,51,45,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+93,70,52,58,"research, trends",data visualization,Graduation,data-scientist
+84,93,61,55,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+96,71,79,42,"business intelligence, numbers","sql, python",Graduation,data-scientist
+91,88,54,63,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+91,92,74,62,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+85,89,56,46,"data, statistics, analytics",data visualization,Graduation,data-scientist
+96,63,56,53,"research, trends",data visualization,Postgraduate,data-scientist
+73,78,51,48,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+86,82,50,55,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+79,78,54,53,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+88,89,79,50,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+71,67,93,87,"science, patients","biology, chemistry",Graduation,healthcare-professional
+95,60,63,46,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+43,90,86,97,"science, patients","biology, chemistry",Graduation,healthcare-professional
+84,85,70,55,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+88,78,57,66,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+79,74,78,68,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+61,64,44,56,"leadership, business, startups","communication, leadership",Graduation,business-manager
+99,70,57,69,"research, trends","statistics, excel",Graduation,data-scientist
+71,51,70,58,"coding, UI/UX","react, node",10th,full-stack-web-developer
+79,73,86,86,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+100,63,52,60,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+82,66,75,69,"research, trends",data visualization,Postgraduate,data-scientist
+78,70,69,56,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+85,93,67,54,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+80,65,97,86,"science, patients","science, hard work",12th,healthcare-professional
+92,90,60,44,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+64,70,63,64,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+67,78,46,42,"strategy, operations","communication, leadership",Graduation,business-manager
+80,82,61,57,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+95,83,53,68,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+95,85,52,45,"data, statistics, analytics","sql, python",Graduation,data-scientist
+65,80,49,69,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+42,92,81,84,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+96,89,61,68,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+85,85,49,50,"internet, building websites","react, node",10th,full-stack-web-developer
+93,87,61,61,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+77,91,67,40,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+77,59,43,57,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+100,65,63,56,"research, trends","statistics, excel",Graduation,data-scientist
+95,52,43,64,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+95,89,54,44,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+68,66,88,96,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+65,62,66,40,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+66,70,46,54,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+77,72,61,67,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+70,63,49,41,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+80,90,73,41,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+86,53,70,54,"leadership, business, startups","networking, strategy",Graduation,business-manager
+77,46,65,63,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+58,54,60,56,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+88,87,68,69,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+76,88,74,53,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+77,93,75,64,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+45,53,68,70,"business law, arguments","writing, analysis",12th,corporate-lawyer
+50,55,42,45,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+82,52,65,69,"strategy, operations","networking, strategy",Graduation,business-manager
+61,68,95,90,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+73,73,53,66,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+84,79,72,46,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+95,50,62,40,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+45,70,43,64,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+75,66,67,69,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+60,56,67,48,"law, debate, justice","reading, communication",12th,corporate-lawyer
+82,86,59,50,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+74,42,63,62,"strategy, operations","networking, strategy",Graduation,business-manager
+94,68,65,46,"data, statistics, analytics",data visualization,Graduation,data-scientist
+68,56,44,68,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+92,85,70,55,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+90,67,70,58,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+64,68,52,67,"coding, UI/UX","react, node",12th,full-stack-web-developer
+64,71,71,46,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+60,54,73,58,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+89,69,41,43,"leadership, business, startups","communication, leadership",Graduation,business-manager
+72,68,56,59,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+78,74,40,67,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+91,76,42,44,"finance, money, business","hard work, memory",12th,chartered-accountant
+97,78,79,62,"research, trends","statistics, excel",Graduation,data-scientist
+91,87,76,51,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+90,63,64,57,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+62,75,88,99,"science, patients","empathy, memory",Graduation,healthcare-professional
+89,72,55,40,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+43,49,55,62,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+80,88,75,67,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+71,76,92,92,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+82,58,45,45,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+52,49,48,56,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+71,87,50,65,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+90,74,58,67,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+64,53,68,43,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+68,56,48,40,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+83,75,45,46,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+86,45,56,59,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+91,95,64,70,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+69,63,54,46,"internet, building websites","react, node",Graduation,full-stack-web-developer
+64,73,74,68,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+95,75,52,46,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+69,52,48,53,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+95,75,52,45,"economics, stock market","numbers, accounting",12th,chartered-accountant
+66,92,100,83,"science, patients","science, hard work",12th,healthcare-professional
+82,79,72,58,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+84,73,52,52,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+96,77,55,60,"research, trends","statistics, excel",Postgraduate,data-scientist
+82,67,68,55,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+68,52,46,64,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+68,61,62,52,"web design, apps, software","react, node",12th,full-stack-web-developer
+100,67,52,45,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+87,87,57,69,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+64,67,56,42,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+70,63,59,61,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+47,68,46,61,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+85,77,56,50,"internet, building websites","react, node",Graduation,full-stack-web-developer
+54,68,58,40,"business law, arguments","writing, analysis",12th,corporate-lawyer
+62,59,60,52,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+89,74,54,52,"research, trends","statistics, excel",Graduation,data-scientist
+64,42,47,52,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+84,70,67,44,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+58,87,92,83,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+65,58,51,40,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+94,82,67,64,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+49,51,70,54,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+62,79,40,65,"web design, apps, software","react, node",10th,full-stack-web-developer
+92,90,55,57,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+78,73,80,62,"artificial intelligence, coding, robots","python, logical thinking",12th,ai-ml-engineer
+68,77,75,86,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+82,89,70,69,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+75,43,62,65,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+75,84,52,65,"programming, algorithms","c++, math",12th,ai-ml-engineer
+87,77,65,63,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+65,71,88,92,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+75,87,56,64,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+71,78,67,70,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+80,40,41,53,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+90,82,70,59,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+53,67,78,85,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+97,56,63,55,"economics, stock market","hard work, memory",12th,chartered-accountant
+92,43,49,69,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+92,63,58,53,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+89,85,54,60,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+73,51,61,42,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+65,44,63,59,"business law, arguments","reading, communication",12th,corporate-lawyer
+92,79,67,52,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+89,83,41,54,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+74,60,46,56,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+66,85,67,54,"internet, building websites","react, node",12th,full-stack-web-developer
+98,51,69,49,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+51,43,44,45,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+92,83,73,70,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+83,66,57,49,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+65,51,69,43,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+83,91,57,68,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+42,68,94,81,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+42,45,57,43,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+66,69,91,94,"science, patients","science, hard work",Graduation,healthcare-professional
+76,81,79,90,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+92,71,64,69,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+86,40,48,49,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+71,78,54,45,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+66,88,72,60,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+74,77,43,53,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+52,78,97,92,"science, patients","empathy, memory",Graduation,healthcare-professional
+78,73,67,56,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+66,89,52,43,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+89,78,59,59,"research, trends","statistics, excel",Graduation,data-scientist
+96,79,55,63,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+77,63,51,40,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+55,67,86,90,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+82,64,47,48,"finance, money, business","numbers, accounting",12th,chartered-accountant
+89,80,49,53,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+78,69,42,66,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+75,71,74,69,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+72,49,44,44,"marketing, management, sales","networking, strategy",Graduation,business-manager
+48,63,55,40,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+51,75,80,87,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+86,86,51,61,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+83,48,43,47,"strategy, operations","networking, strategy",Graduation,business-manager
+98,72,64,51,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+98,89,57,54,"data, statistics, analytics","sql, python",Graduation,data-scientist
+72,53,61,61,"marketing, management, sales","networking, strategy",Graduation,business-manager
+88,46,41,70,"strategy, operations","communication, leadership",Postgraduate,business-manager
+86,92,57,50,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+97,75,79,45,"business intelligence, numbers",data visualization,Graduation,data-scientist
+79,65,56,58,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+75,49,57,48,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+80,77,55,60,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+50,91,77,95,"science, patients","science, hard work",Graduation,healthcare-professional
+85,61,71,51,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+93,84,50,66,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+83,76,69,44,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+74,90,68,66,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+93,74,59,40,"economics, stock market","numbers, accounting",12th,chartered-accountant
+66,69,56,61,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+95,77,59,56,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+78,92,60,44,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+69,53,65,60,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+89,75,48,52,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+81,72,54,54,"research, trends",data visualization,Postgraduate,data-scientist
+84,84,50,63,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+87,66,52,48,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+100,42,43,45,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+75,53,66,61,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+98,61,77,50,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+100,92,64,57,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+90,53,70,53,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+80,71,79,62,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+78,78,97,87,"science, patients","biology, chemistry",Graduation,healthcare-professional
+45,69,61,49,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+89,47,55,44,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+71,84,75,44,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+74,65,65,53,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+61,66,57,43,"internet, building websites","react, node",10th,full-stack-web-developer
+86,63,58,43,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+69,80,57,53,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+68,67,40,60,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+87,94,58,50,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+81,65,58,50,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+83,89,79,70,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+90,61,74,61,"research, trends",data visualization,Graduation,data-scientist
+49,45,57,46,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+60,69,43,51,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+76,90,89,89,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+54,49,40,41,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+61,50,73,47,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+87,41,57,57,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+77,82,55,58,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+68,47,41,41,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+79,49,49,41,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+94,87,71,61,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+44,41,46,65,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+82,78,77,65,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+77,40,63,41,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+92,51,53,68,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+89,76,64,42,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+92,74,66,62,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+65,56,45,56,"leadership, business, startups","communication, leadership",Graduation,business-manager
+59,66,69,61,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+90,64,61,63,"economics, stock market","hard work, memory",12th,chartered-accountant
+61,84,97,87,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+79,92,78,58,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+92,43,54,58,"strategy, operations","communication, leadership",Graduation,business-manager
+99,51,58,68,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+65,89,59,57,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+97,64,56,58,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+71,42,66,50,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+46,66,59,57,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+90,65,62,44,"finance, money, business","numbers, accounting",12th,chartered-accountant
+76,49,49,42,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+90,88,52,45,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+61,78,52,62,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+91,62,57,61,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+68,74,85,81,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+80,69,76,47,"business intelligence, numbers",data visualization,Graduation,data-scientist
+66,84,95,86,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+53,58,41,69,"business law, arguments","reading, communication",12th,corporate-lawyer
+91,66,57,57,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+90,69,59,50,"business intelligence, numbers",data visualization,Graduation,data-scientist
+73,67,61,59,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+82,67,44,62,"coding, UI/UX","react, node",12th,full-stack-web-developer
+83,82,41,63,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+57,87,98,96,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+49,83,92,95,"science, patients","empathy, memory",Graduation,healthcare-professional
+66,75,71,64,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+87,64,75,57,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+90,62,59,65,"research, trends","sql, python",Graduation,data-scientist
+77,48,45,42,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+66,69,42,54,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+86,42,61,59,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+69,52,40,60,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+80,65,71,50,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+60,58,71,54,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+80,82,78,61,"research, trends",data visualization,Postgraduate,data-scientist
+80,86,65,64,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+63,69,58,49,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+76,73,69,51,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+74,91,97,88,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+83,86,75,60,"machine learning, automation, math","c++, math",12th,ai-ml-engineer
+59,62,61,65,"business law, arguments","writing, analysis",12th,corporate-lawyer
+71,64,46,67,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+67,71,71,43,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+89,76,80,43,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+84,73,69,42,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+69,67,48,55,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+45,60,70,54,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+66,50,46,55,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+99,89,50,53,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+90,81,77,66,"programming, algorithms","c++, math",12th,ai-ml-engineer
+89,94,61,53,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+96,75,73,70,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+54,51,54,58,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+76,66,53,40,"internet, building websites","creativity, coding",12th,full-stack-web-developer
+63,54,67,62,"leadership, business, startups","communication, leadership",Graduation,business-manager
+87,75,61,40,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+85,72,48,69,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+100,47,62,46,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+86,79,72,60,"data, statistics, analytics","sql, python",Graduation,data-scientist
+92,48,70,68,"leadership, business, startups","networking, strategy",Graduation,business-manager
+74,55,45,70,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+70,76,69,55,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+98,79,68,67,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+83,93,63,45,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+96,54,46,46,"economics, stock market","hard work, memory",12th,chartered-accountant
+80,76,52,67,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+97,82,69,54,"research, trends","sql, python",Graduation,data-scientist
+68,57,45,64,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+93,65,63,68,"strategy, operations","communication, leadership",Postgraduate,business-manager
+96,77,52,66,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+80,68,75,88,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+85,93,61,59,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+53,81,83,98,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+76,56,65,64,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+72,45,40,41,"marketing, management, sales","communication, leadership",Graduation,business-manager
+85,84,61,47,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+42,50,61,70,"business law, arguments","reading, communication",12th,corporate-lawyer
+86,86,64,43,"business intelligence, numbers",data visualization,Graduation,data-scientist
+76,75,55,60,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+97,67,51,69,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+97,79,77,49,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+76,67,43,52,"internet, building websites","react, node",12th,full-stack-web-developer
+60,57,58,64,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+80,65,53,70,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+57,59,49,65,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+89,70,60,65,"research, trends",data visualization,Graduation,data-scientist
+70,81,83,80,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+44,64,53,45,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+89,60,73,47,"business intelligence, numbers","sql, python",Graduation,data-scientist
+70,65,75,86,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+60,78,76,83,"science, patients","science, hard work",12th,healthcare-professional
+91,70,64,51,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+100,63,68,50,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+72,58,53,46,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+67,82,74,69,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+78,79,61,50,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+83,61,59,60,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+80,84,59,61,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+64,55,46,41,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+42,73,100,85,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+86,67,65,44,"business intelligence, numbers","sql, python",Graduation,data-scientist
+89,42,62,43,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+61,43,67,65,"strategy, operations","communication, leadership",Graduation,business-manager
+89,45,62,48,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+76,77,85,82,"science, patients","biology, chemistry",12th,healthcare-professional
+66,66,73,45,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+68,74,48,57,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+85,76,61,61,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+78,78,53,69,"marketing, management, sales","networking, strategy",Graduation,business-manager
+87,79,69,58,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+98,93,53,69,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+62,48,44,60,"marketing, management, sales","networking, strategy",Graduation,business-manager
+89,67,49,40,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+83,62,73,46,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+88,89,73,61,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+75,73,55,63,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+40,50,55,49,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+63,67,44,40,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+71,67,41,43,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+61,58,58,47,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+52,68,60,52,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+66,84,99,98,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+62,67,51,69,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+92,75,68,62,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+78,73,48,45,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+82,68,66,59,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+80,79,77,45,"programming, algorithms","c++, math",12th,ai-ml-engineer
+94,89,60,46,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+92,70,42,49,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+76,44,63,62,"leadership, business, startups","networking, strategy",Graduation,business-manager
+58,58,45,43,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+92,65,57,64,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+77,83,44,40,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+96,77,69,50,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+66,67,57,59,"leadership, business, startups","networking, strategy",Graduation,business-manager
+91,71,79,43,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+91,53,68,68,"strategy, operations","communication, leadership",Graduation,business-manager
+76,57,55,46,"law, debate, justice","reading, communication",12th,corporate-lawyer
+89,91,41,48,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+86,52,57,63,"leadership, business, startups","networking, strategy",Graduation,business-manager
+71,76,84,100,"science, patients","empathy, memory",12th,healthcare-professional
+88,78,68,47,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+80,64,74,58,"research, trends","statistics, excel",Graduation,data-scientist
+86,65,45,47,"web design, apps, software","react, node",12th,full-stack-web-developer
+71,73,69,63,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+68,62,52,52,"internet, building websites","react, node",Graduation,full-stack-web-developer
+87,84,54,51,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+43,57,52,65,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+92,69,64,41,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+94,81,62,61,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+62,40,59,67,"leadership, business, startups","networking, strategy",Graduation,business-manager
+41,95,92,97,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+47,93,95,95,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+98,87,79,53,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+94,62,61,65,"research, trends",data visualization,Postgraduate,data-scientist
+100,45,49,48,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+81,71,46,43,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+98,64,51,41,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+98,63,58,52,"data, statistics, analytics","sql, python",Graduation,data-scientist
+66,86,95,95,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+75,61,46,59,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+70,91,93,84,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+98,92,66,42,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+85,83,52,66,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+89,69,73,54,"business intelligence, numbers","sql, python",Graduation,data-scientist
+68,75,64,54,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+69,51,46,51,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+95,68,64,56,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+55,64,63,48,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+78,65,51,44,"web design, apps, software","react, node",12th,full-stack-web-developer
+77,77,94,94,"science, patients","biology, chemistry",12th,healthcare-professional
+67,74,59,63,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+70,71,56,47,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+67,58,42,55,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+94,74,51,43,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+73,58,43,44,"leadership, business, startups","communication, leadership",Graduation,business-manager
+84,57,66,45,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+76,56,68,43,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+80,76,59,58,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+80,59,54,70,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+69,91,97,83,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+67,67,47,56,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+49,80,99,97,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+80,46,45,68,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+50,67,68,63,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+46,45,43,43,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+63,65,63,51,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+50,95,96,94,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+45,50,44,50,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+85,88,72,55,"business intelligence, numbers","sql, python",Graduation,data-scientist
+49,92,77,95,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+69,55,50,44,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+80,64,43,56,"marketing, management, sales","communication, leadership",Graduation,business-manager
+98,82,70,53,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+71,60,40,46,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+75,79,48,68,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+66,68,46,48,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+76,92,80,41,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+85,90,62,56,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+86,92,57,65,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+86,93,70,61,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+76,60,56,67,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+87,45,70,41,"leadership, business, startups","communication, leadership",Graduation,business-manager
+60,57,68,43,"marketing, management, sales","networking, strategy",Graduation,business-manager
+57,59,66,50,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+73,75,77,87,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+89,65,65,45,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+72,61,47,63,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+85,71,71,49,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+100,84,72,44,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+83,56,70,41,"web design, apps, software","react, node",12th,full-stack-web-developer
+61,73,43,40,"internet, building websites","react, node",12th,full-stack-web-developer
+57,59,50,57,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+60,57,58,56,"coding, UI/UX","react, node",12th,full-stack-web-developer
+86,90,55,57,"business intelligence, numbers",data visualization,Graduation,data-scientist
+93,88,62,58,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+91,76,62,65,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+75,71,66,64,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+78,55,46,59,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+75,54,53,49,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+43,80,94,97,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+47,54,49,63,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+49,52,50,42,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+90,71,53,52,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+93,87,51,44,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+87,65,63,62,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+68,81,51,53,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+71,93,98,99,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+78,91,75,65,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+54,80,79,90,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+79,88,52,44,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+72,69,57,40,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+83,77,70,49,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+65,59,63,60,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+71,60,44,49,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+82,57,55,44,"leadership, business, startups","communication, leadership",Graduation,business-manager
+49,82,77,82,"science, patients","biology, chemistry",12th,healthcare-professional
+91,73,61,56,"research, trends","sql, python",Postgraduate,data-scientist
+85,66,50,65,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+55,73,98,84,"science, patients","empathy, memory",Graduation,healthcare-professional
+74,53,57,61,"law, debate, justice","reading, communication",12th,corporate-lawyer
+90,60,52,56,"data, statistics, analytics",data visualization,Graduation,data-scientist
+79,85,99,91,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+76,75,52,63,"artificial intelligence, coding, robots","problem solving, coding",Graduation,ai-ml-engineer
+63,56,40,47,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+97,83,60,40,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+54,44,47,52,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+71,56,59,48,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+41,41,58,67,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+84,67,57,70,"internet, building websites","react, node",12th,full-stack-web-developer
+72,91,41,57,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+87,90,74,49,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+82,54,72,67,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+51,83,90,98,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+97,70,71,43,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+97,55,65,62,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+99,72,63,49,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+81,73,59,51,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+68,72,74,59,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+85,87,52,68,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+78,95,68,50,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+82,82,51,49,"internet, building websites","react, node",12th,full-stack-web-developer
+48,76,87,97,"science, patients","science, hard work",Graduation,healthcare-professional
+85,77,74,53,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+79,61,49,55,"strategy, operations","networking, strategy",Graduation,business-manager
+67,90,84,92,"science, patients","biology, chemistry",12th,healthcare-professional
+57,77,86,93,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+78,48,48,46,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+71,53,71,51,"web design, apps, software","react, node",12th,full-stack-web-developer
+88,78,50,59,"programming, algorithms","c++, math",12th,ai-ml-engineer
+98,83,68,69,"research, trends",data visualization,Postgraduate,data-scientist
+73,87,85,87,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+41,87,91,93,"science, patients","biology, chemistry",12th,healthcare-professional
+83,83,73,65,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+74,82,60,50,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+60,70,49,50,"strategy, operations","communication, leadership",Graduation,business-manager
+73,74,54,52,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+93,82,50,59,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+95,45,52,69,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+78,42,60,49,"economics, stock market","numbers, accounting",12th,chartered-accountant
+73,56,64,43,"marketing, management, sales","communication, leadership",Graduation,business-manager
+91,75,53,44,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+83,90,78,68,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+80,62,44,52,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+93,85,74,54,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+84,62,65,42,"business intelligence, numbers","sql, python",Graduation,data-scientist
+92,52,51,68,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+96,87,79,65,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+79,75,47,51,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+95,81,63,47,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+80,60,49,63,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+63,63,49,45,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+75,43,53,42,"economics, stock market","hard work, memory",12th,chartered-accountant
+68,61,42,44,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+68,62,53,53,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+91,73,51,64,"research, trends","statistics, excel",Postgraduate,data-scientist
+81,63,66,44,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+77,67,80,46,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+51,41,42,64,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+84,89,71,59,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+53,56,65,69,"business law, arguments","writing, analysis",12th,corporate-lawyer
+83,53,56,40,"strategy, operations","networking, strategy",Postgraduate,business-manager
+46,93,97,90,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+75,72,77,53,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+43,64,70,64,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+94,58,43,41,"strategy, operations","networking, strategy",Graduation,business-manager
+75,63,63,59,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+98,77,40,63,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+79,46,46,47,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+92,74,63,46,"leadership, business, startups","networking, strategy",Graduation,business-manager
+93,65,64,46,"research, trends",data visualization,Postgraduate,data-scientist
+95,75,59,50,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+72,54,56,70,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+85,61,64,57,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+64,80,98,87,"science, patients","science, hard work",Graduation,healthcare-professional
+69,66,64,42,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+92,94,60,52,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+83,68,51,55,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+80,70,57,45,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+77,94,68,63,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+56,47,63,53,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+81,69,55,53,"data, statistics, analytics",data visualization,Graduation,data-scientist
+100,90,62,42,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+87,69,61,61,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+62,42,42,50,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+81,62,61,50,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+71,79,49,70,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+82,77,45,55,"leadership, business, startups","communication, leadership",Graduation,business-manager
+87,80,67,58,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+70,82,46,50,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+80,56,69,50,"strategy, operations","communication, leadership",Postgraduate,business-manager
+45,66,49,58,"law, debate, justice","reading, communication",12th,corporate-lawyer
+98,78,61,48,"research, trends","sql, python",Postgraduate,data-scientist
+48,40,56,47,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+94,42,49,69,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+81,79,44,45,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+76,89,64,63,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+84,69,63,49,"strategy, operations","communication, leadership",Graduation,business-manager
+99,49,41,53,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+50,77,87,98,"science, patients","science, hard work",12th,healthcare-professional
+92,73,51,60,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+90,51,66,53,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+99,75,49,58,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+89,94,67,61,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+46,68,94,81,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+64,52,70,63,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+69,83,55,46,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+77,48,59,44,"leadership, business, startups","networking, strategy",Graduation,business-manager
+77,63,42,60,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+70,73,53,65,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+64,65,57,58,"business law, arguments","reading, communication",12th,corporate-lawyer
+83,48,68,61,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+71,91,88,98,"science, patients","biology, chemistry",Graduation,healthcare-professional
+47,84,87,88,"science, patients","empathy, memory",12th,healthcare-professional
+88,59,75,58,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+67,74,90,91,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+56,64,66,57,"business law, arguments","reading, communication",12th,corporate-lawyer
+87,66,73,64,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+99,76,66,55,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+54,74,82,84,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+94,76,58,59,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+72,52,56,41,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+88,74,55,52,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+90,79,78,57,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+87,61,55,67,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+71,81,100,85,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+75,77,61,60,"economics, stock market","numbers, accounting",12th,chartered-accountant
+87,79,71,52,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+93,64,66,48,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+69,61,66,43,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+95,93,45,54,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+75,54,63,56,"internet, building websites","react, node",Graduation,full-stack-web-developer
+80,59,43,62,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+82,77,75,51,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+74,66,60,62,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+70,68,42,64,"leadership, business, startups","communication, leadership",Graduation,business-manager
+68,77,63,56,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+97,90,60,64,"business intelligence, numbers",data visualization,Graduation,data-scientist
+89,71,54,64,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+80,85,79,65,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+91,40,63,51,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+56,81,84,100,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+68,74,47,49,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+69,57,55,40,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+80,81,92,82,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+91,72,54,47,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+89,77,55,50,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+81,70,69,63,"data, statistics, analytics",data visualization,Graduation,data-scientist
+65,51,49,42,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+83,77,60,45,"web design, apps, software","react, node",10th,full-stack-web-developer
+82,63,46,60,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+73,56,59,54,"strategy, operations","communication, leadership",Graduation,business-manager
+95,50,66,65,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+70,57,68,63,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+92,48,41,65,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+79,73,69,68,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+81,62,61,49,"research, trends",data visualization,Postgraduate,data-scientist
+76,62,61,44,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+89,52,65,48,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+80,72,92,90,"science, patients","biology, chemistry",Graduation,healthcare-professional
+56,59,49,45,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+88,75,80,59,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+95,72,68,58,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+74,65,69,62,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+91,87,59,46,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+60,83,51,46,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+99,70,52,65,"machine learning, automation, math","c++, math",12th,ai-ml-engineer
+86,62,65,65,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+83,93,59,59,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+63,90,97,81,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+95,67,60,47,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+64,51,67,58,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+72,76,44,70,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+81,77,69,64,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+72,81,44,55,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+85,56,63,62,"internet, building websites","react, node",Graduation,full-stack-web-developer
+72,55,47,52,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+47,64,54,45,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+95,68,61,65,"business intelligence, numbers","sql, python",Graduation,data-scientist
+64,69,67,69,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+41,47,43,65,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+82,54,45,43,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+60,50,49,63,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+90,81,73,65,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+78,62,41,63,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+66,50,66,50,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+89,70,51,64,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+84,85,57,63,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+84,66,42,68,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+75,66,99,82,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+92,75,62,56,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+86,72,51,49,"internet, building websites","react, node",10th,full-stack-web-developer
+94,61,63,69,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+86,80,69,61,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+89,94,67,62,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+73,65,46,51,"coding, UI/UX","react, node",10th,full-stack-web-developer
+77,47,53,58,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+80,57,44,57,"coding, UI/UX","react, node",10th,full-stack-web-developer
+82,60,52,65,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+99,72,63,43,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+80,72,88,84,"science, patients","empathy, memory",Graduation,healthcare-professional
+64,64,69,40,"internet, building websites","react, node",10th,full-stack-web-developer
+88,90,58,57,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+49,41,43,43,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+66,81,58,43,"coding, UI/UX","react, node",12th,full-stack-web-developer
+71,53,58,42,"strategy, operations","networking, strategy",Graduation,business-manager
+70,67,75,87,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+49,65,95,96,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+43,83,81,81,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+85,44,58,53,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+89,74,44,56,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+81,82,53,44,"artificial intelligence, coding, robots","c++, math",Graduation,ai-ml-engineer
+67,79,42,52,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+98,77,76,52,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+85,83,62,55,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+92,52,67,70,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+98,67,67,45,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+83,44,70,41,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+76,59,48,43,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+78,85,62,64,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+65,86,41,68,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+66,63,58,46,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+87,88,74,66,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+80,54,70,46,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+92,78,78,63,"data, statistics, analytics","sql, python",Graduation,data-scientist
+41,94,94,91,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+46,74,97,83,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+62,92,96,94,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+81,73,67,44,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+85,58,44,57,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+84,54,74,57,"internet, building websites","react, node",10th,full-stack-web-developer
+89,57,67,65,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+89,43,59,49,"strategy, operations","communication, leadership",Postgraduate,business-manager
+74,69,70,70,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+78,85,55,47,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+65,51,64,68,"strategy, operations","networking, strategy",Postgraduate,business-manager
+87,88,56,55,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+88,41,69,67,"strategy, operations","networking, strategy",Graduation,business-manager
+89,51,70,50,"leadership, business, startups","networking, strategy",Graduation,business-manager
+71,64,44,43,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+88,74,68,60,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+82,66,58,59,"data, statistics, analytics",data visualization,Graduation,data-scientist
+75,71,65,41,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+100,79,57,58,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+94,49,62,59,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+71,45,65,58,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+40,48,55,55,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+79,78,45,67,"internet, building websites","react, node",Graduation,full-stack-web-developer
+64,61,69,57,"coding, UI/UX","react, node",Graduation,full-stack-web-developer
+95,87,59,65,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+90,58,62,57,"internet, building websites","react, node",10th,full-stack-web-developer
+93,48,53,58,"economics, stock market","numbers, accounting",12th,chartered-accountant
+88,77,71,40,"research, trends","sql, python",Graduation,data-scientist
+88,79,55,48,"internet, building websites","react, node",Graduation,full-stack-web-developer
+76,71,69,42,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+82,47,40,67,"strategy, operations","networking, strategy",Postgraduate,business-manager
+77,80,91,88,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+65,80,65,69,"strategy, operations","communication, leadership",Graduation,business-manager
+86,58,69,49,"marketing, management, sales","communication, leadership",Graduation,business-manager
+90,52,40,69,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+84,62,51,61,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+46,49,58,42,"law, debate, justice","reading, communication",12th,corporate-lawyer
+47,44,46,60,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+99,78,52,55,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+85,81,67,60,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+97,79,70,66,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+66,90,89,91,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+95,51,48,70,"marketing, management, sales","communication, leadership",Graduation,business-manager
+82,83,59,45,"coding, UI/UX","react, node",10th,full-stack-web-developer
+78,89,50,60,"artificial intelligence, coding, robots","python, logical thinking",Graduation,ai-ml-engineer
+88,66,75,67,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+69,51,69,63,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+85,80,75,64,"research, trends","sql, python",Graduation,data-scientist
+92,40,42,58,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+64,45,55,50,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+81,91,76,52,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+95,63,66,43,"research, trends",data visualization,Graduation,data-scientist
+94,66,79,42,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+87,78,62,64,"research, trends","sql, python",Postgraduate,data-scientist
+93,91,51,62,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+95,68,63,42,"marketing, management, sales","communication, leadership",Graduation,business-manager
+80,71,87,96,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+54,92,96,95,"science, patients","biology, chemistry",12th,healthcare-professional
+79,70,92,100,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+86,70,49,60,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+63,58,44,47,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+82,70,65,49,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+62,72,73,44,"web design, apps, software","react, node",Graduation,full-stack-web-developer
+83,76,46,58,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+79,42,47,52,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+79,41,53,47,"corporate law, reading, politics","logical reasoning, public speaking",Graduation,corporate-lawyer
+73,55,41,50,"strategy, operations","communication, leadership",Graduation,business-manager
+99,87,59,67,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+79,44,49,51,"business law, arguments","reading, communication",12th,corporate-lawyer
+94,66,72,65,"investigation, tech","linux, networking",12th,cybersecurity-analyst
+61,75,63,54,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+97,66,69,48,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+93,71,71,56,"research, trends","sql, python",Postgraduate,data-scientist
+82,89,55,56,"artificial intelligence, coding, robots","problem solving, coding",12th,ai-ml-engineer
+79,64,40,52,"strategy, operations","networking, strategy",Graduation,business-manager
+70,80,89,85,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+65,55,50,66,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+68,42,63,53,"marketing, management, sales","networking, strategy",Graduation,business-manager
+95,54,68,59,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+97,46,59,51,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+98,83,74,42,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+82,77,62,59,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+93,67,75,57,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+71,46,60,69,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+88,63,52,57,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+83,68,75,57,"data, statistics, analytics",data visualization,Graduation,data-scientist
+95,60,55,61,"business intelligence, numbers",data visualization,Graduation,data-scientist
+53,89,78,82,"science, patients","empathy, memory",12th,healthcare-professional
+63,70,62,70,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+90,63,54,69,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+78,59,60,41,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+86,84,66,53,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+77,88,74,54,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+83,46,63,62,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+57,48,56,61,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+72,76,48,69,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+83,63,54,52,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+62,73,85,99,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+95,46,47,48,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+55,45,46,56,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+79,83,41,64,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+70,89,54,55,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+60,71,76,91,"science, patients","empathy, memory",Graduation,healthcare-professional
+95,83,54,66,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+54,59,63,55,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+93,90,71,40,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+91,64,54,52,"research, trends","sql, python",Postgraduate,data-scientist
+89,63,79,48,"research, trends",data visualization,Postgraduate,data-scientist
+87,50,54,47,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+89,44,63,64,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+63,65,66,45,"web design, apps, software","creativity, coding",10th,full-stack-web-developer
+95,87,51,61,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+80,52,52,42,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+70,56,54,62,"strategy, operations","networking, strategy",Graduation,business-manager
+51,80,99,94,"science, patients","empathy, memory",Graduation,healthcare-professional
+63,77,85,91,"science, patients","biology, chemistry",12th,healthcare-professional
+76,94,78,44,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+80,44,61,70,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+91,78,52,44,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+82,82,60,69,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+75,41,65,41,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+99,73,47,46,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+73,85,68,43,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+90,80,54,70,"research, trends",data visualization,Postgraduate,data-scientist
+81,79,79,51,"data, statistics, analytics","sql, python",Graduation,data-scientist
+77,78,63,62,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+88,65,59,68,"research, trends","statistics, excel",Postgraduate,data-scientist
+69,61,55,68,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+98,53,63,64,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+67,64,71,60,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+75,72,62,61,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+90,79,40,58,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+70,76,75,54,"coding, UI/UX","react, node",12th,full-stack-web-developer
+77,84,76,92,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+92,71,54,64,"research, trends","sql, python",Graduation,data-scientist
+53,58,41,66,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+81,64,64,43,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+86,55,47,51,"strategy, operations","networking, strategy",Graduation,business-manager
+48,44,47,54,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+98,71,68,47,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+89,63,57,45,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+99,60,46,58,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+99,83,77,50,"data, statistics, analytics","sql, python",Graduation,data-scientist
+80,48,58,70,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+84,62,67,59,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+86,69,51,43,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+93,74,48,69,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+76,94,70,67,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+74,77,78,48,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+95,76,80,64,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+78,77,73,67,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+65,79,51,51,"coding, UI/UX","react, node",10th,full-stack-web-developer
+67,72,85,94,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+83,77,66,67,"data, statistics, analytics",data visualization,Graduation,data-scientist
+88,54,66,48,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+92,50,62,63,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+82,42,54,50,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+54,53,64,50,"business law, arguments","writing, analysis",12th,corporate-lawyer
+84,89,49,43,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+94,66,64,51,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+87,92,68,62,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+72,79,50,61,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+50,56,44,45,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+55,67,100,80,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+56,65,49,49,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+93,45,62,41,"finance, money, business","numbers, accounting",12th,chartered-accountant
+98,86,56,66,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+81,66,59,57,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+63,66,70,56,"web design, apps, software","react, node",10th,full-stack-web-developer
+52,80,99,85,"science, patients","empathy, memory",Graduation,healthcare-professional
+85,83,48,67,"internet, building websites","react, node",12th,full-stack-web-developer
+56,85,92,100,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+82,75,72,43,"programming, algorithms","c++, math",12th,ai-ml-engineer
+80,60,64,47,"finance, money, business","numbers, accounting",12th,chartered-accountant
+52,79,91,88,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+83,94,58,69,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+89,68,43,65,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+72,76,70,55,"coding, UI/UX","creativity, coding",10th,full-stack-web-developer
+81,90,70,58,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+56,88,78,96,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+45,41,65,57,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+98,72,64,68,"research, trends",data visualization,Postgraduate,data-scientist
+68,67,49,40,"law, debate, justice","reading, communication",12th,corporate-lawyer
+100,73,73,54,"business intelligence, numbers",data visualization,Graduation,data-scientist
+88,93,65,40,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+65,47,66,43,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+78,74,79,41,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+79,88,70,65,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+55,67,86,88,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+100,72,51,54,"research, trends",data visualization,Graduation,data-scientist
+61,66,68,67,"strategy, operations","networking, strategy",Postgraduate,business-manager
+93,90,56,53,"research, trends","sql, python",Postgraduate,data-scientist
+91,43,58,49,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+71,71,92,99,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+67,80,68,53,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+89,85,52,63,"research, trends","statistics, excel",Graduation,data-scientist
+92,90,51,57,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+61,64,41,69,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+98,51,63,42,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+95,58,64,47,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+95,78,71,63,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+41,45,53,55,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+82,95,71,63,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+67,78,55,43,"web design, apps, software","html, css, javascript",12th,full-stack-web-developer
+88,79,54,43,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+80,83,79,89,"science, patients","empathy, memory",12th,healthcare-professional
+91,52,69,68,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+82,92,72,41,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+70,76,85,85,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+44,74,99,90,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+78,54,62,64,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+74,84,96,97,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+41,48,54,46,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+75,74,45,68,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+97,61,66,41,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+92,68,65,55,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+95,90,78,48,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+92,76,47,50,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+61,59,54,64,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+59,78,81,97,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+80,85,55,53,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+85,72,51,40,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+90,86,76,59,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+67,56,70,49,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+76,90,78,51,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+78,43,51,63,"economics, stock market","hard work, memory",12th,chartered-accountant
+78,94,55,44,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+88,65,63,47,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+57,69,96,94,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+64,65,89,83,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+68,87,43,58,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+88,80,52,63,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+89,51,53,57,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+93,56,48,60,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+85,83,52,44,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+80,79,58,53,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+62,49,56,70,"strategy, operations","communication, leadership",Postgraduate,business-manager
+66,59,72,65,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+77,69,53,42,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+92,79,52,68,"machine learning, automation, math","c++, math",12th,ai-ml-engineer
+95,85,60,43,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+84,68,64,53,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+84,61,40,52,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+83,81,78,65,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+87,84,60,42,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+79,46,55,57,"economics, stock market","hard work, memory",12th,chartered-accountant
+85,74,67,61,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+94,77,52,63,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+89,70,67,41,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+97,45,56,62,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+75,67,87,80,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+98,83,75,52,"research, trends","sql, python",Graduation,data-scientist
+75,60,56,68,"strategy, operations","communication, leadership",Graduation,business-manager
+90,73,44,55,"finance, money, business","numbers, accounting",12th,chartered-accountant
+56,47,45,40,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+76,40,46,57,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+86,66,62,63,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+97,90,62,58,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+57,88,84,91,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+83,85,55,49,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+50,50,50,44,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+79,75,68,48,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+90,70,62,55,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+67,69,68,57,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+92,88,75,42,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+94,75,41,59,"strategy, operations","communication, leadership",Graduation,business-manager
+93,78,77,68,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+70,53,40,42,"coding, UI/UX","react, node",10th,full-stack-web-developer
+86,62,63,42,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+79,77,66,61,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+69,67,94,83,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+88,87,67,42,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+64,77,88,100,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+46,57,46,49,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+94,51,41,70,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+49,58,47,58,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+43,50,41,58,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+67,85,93,92,"science, patients","empathy, memory",Graduation,healthcare-professional
+72,78,52,42,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+77,84,66,47,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+77,84,79,44,"programming, algorithms","python, logical thinking",Graduation,ai-ml-engineer
+88,69,56,43,"research, trends","statistics, excel",Postgraduate,data-scientist
+78,70,42,63,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+42,85,94,92,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+79,66,65,59,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+72,69,60,43,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+92,86,52,66,"business intelligence, numbers",data visualization,Graduation,data-scientist
+82,88,65,63,"business intelligence, numbers",data visualization,Graduation,data-scientist
+82,80,51,56,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+96,86,77,69,"business intelligence, numbers","sql, python",Graduation,data-scientist
+74,87,76,62,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+85,76,78,56,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+91,44,64,54,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+92,92,71,60,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+60,68,74,49,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+75,64,55,68,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+80,77,74,55,"business intelligence, numbers","sql, python",Graduation,data-scientist
+84,76,69,63,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+95,41,46,66,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+83,93,73,63,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+62,70,49,56,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+97,62,76,61,"research, trends","statistics, excel",Postgraduate,data-scientist
+85,77,50,48,"coding, UI/UX","html, css, javascript",12th,full-stack-web-developer
+61,84,80,84,"medicine, helping people, biology","science, hard work",Graduation,healthcare-professional
+97,87,56,65,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+85,84,80,64,"research, trends",data visualization,Postgraduate,data-scientist
+63,50,60,49,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+65,73,42,68,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+43,45,62,59,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+86,73,46,63,"investigation, tech","problem solving, attention to detail",Graduation,cybersecurity-analyst
+62,50,61,46,"coding, UI/UX","creativity, coding",12th,full-stack-web-developer
+87,68,55,43,"research, trends","statistics, excel",Postgraduate,data-scientist
+74,62,40,61,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+93,78,43,57,"accounts, taxation, auditing","hard work, memory",Graduation,chartered-accountant
+42,77,78,80,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+81,90,79,70,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+97,84,67,59,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+99,77,56,69,"machine learning, automation, math","problem solving, coding",Graduation,ai-ml-engineer
+100,59,65,53,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+77,92,99,91,"science, patients","biology, chemistry",Graduation,healthcare-professional
+89,70,55,65,"marketing, management, sales","networking, strategy",Graduation,business-manager
+94,93,53,53,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+61,54,47,63,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+88,73,67,62,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+55,65,65,43,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+79,75,43,43,"internet, building websites","react, node",12th,full-stack-web-developer
+82,59,43,55,"strategy, operations","communication, leadership",Graduation,business-manager
+89,78,59,41,"research, trends","statistics, excel",Graduation,data-scientist
+69,85,43,53,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+83,87,55,68,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+48,63,70,48,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+81,78,40,48,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+83,48,45,60,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+79,84,60,55,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+94,79,53,51,"data, statistics, analytics","sql, python",Graduation,data-scientist
+63,40,51,62,"marketing, management, sales","networking, strategy",Graduation,business-manager
+71,81,78,83,"science, patients","biology, chemistry",12th,healthcare-professional
+88,88,51,54,"programming, algorithms","problem solving, coding",Graduation,ai-ml-engineer
+84,75,45,56,"strategy, operations","communication, leadership",Graduation,business-manager
+87,73,43,58,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+68,72,48,48,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+82,42,69,46,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+96,68,43,40,"finance, money, business","numbers, accounting",12th,chartered-accountant
+79,89,75,59,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+91,76,57,49,"business intelligence, numbers","sql, python",Graduation,data-scientist
+86,74,71,53,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+45,59,62,67,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+56,75,95,86,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+83,88,70,68,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+91,74,56,54,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+98,45,41,55,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+86,66,41,70,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+85,55,50,49,"web design, apps, software","react, node",10th,full-stack-web-developer
+88,80,43,62,"economics, stock market","hard work, memory",12th,chartered-accountant
+78,77,45,59,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+65,69,54,59,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+80,88,79,58,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+85,71,78,50,"artificial intelligence, coding, robots","problem solving, coding",Postgraduate,ai-ml-engineer
+91,69,69,67,"hacking, security, networks","ethical hacking, scripting",Graduation,cybersecurity-analyst
+57,74,90,95,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+76,68,52,51,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+86,68,67,54,"web design, apps, software","react, node",12th,full-stack-web-developer
+72,65,56,69,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+86,87,74,64,"research, trends","sql, python",Graduation,data-scientist
+54,69,89,96,"science, patients","science, hard work",Graduation,healthcare-professional
+93,80,64,51,"research, trends",data visualization,Graduation,data-scientist
+96,64,65,41,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant
+46,82,83,99,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+88,84,61,44,"web design, apps, software","react, node",10th,full-stack-web-developer
+95,40,49,58,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+79,86,53,62,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+90,59,61,53,"strategy, operations","communication, leadership",Postgraduate,business-manager
+81,93,76,40,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+78,77,41,62,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+89,85,76,65,"research, trends",data visualization,Postgraduate,data-scientist
+83,78,68,54,"economics, stock market","hard work, memory",12th,chartered-accountant
+40,59,60,46,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+84,87,66,60,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+94,82,56,50,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+98,78,68,62,"research, trends",data visualization,Postgraduate,data-scientist
+67,50,49,70,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+61,69,100,83,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+77,73,76,84,"healthcare, doctors, anatomy","empathy, memory",Graduation,healthcare-professional
+83,72,61,66,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+78,43,51,56,"marketing, management, sales","teamwork, problem solving",Postgraduate,business-manager
+78,73,62,49,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+80,69,92,95,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+87,65,69,48,"web design, apps, software","creativity, coding",Graduation,full-stack-web-developer
+96,61,56,49,"research, trends",data visualization,Graduation,data-scientist
+67,53,44,65,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+79,63,46,57,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+98,71,66,56,"business intelligence, numbers","sql, python",Graduation,data-scientist
+79,95,93,85,"science, patients","empathy, memory",12th,healthcare-professional
+67,61,64,53,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+80,65,52,67,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+74,42,48,53,"business law, arguments","writing, analysis",12th,corporate-lawyer
+94,90,43,60,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+92,56,46,52,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+70,76,76,50,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+95,82,73,65,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+47,86,92,94,"healthcare, doctors, anatomy","science, hard work",12th,healthcare-professional
+59,83,89,92,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+56,93,89,91,"science, patients","biology, chemistry",12th,healthcare-professional
+50,45,45,51,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+100,74,62,51,"research, trends","statistics, excel",Postgraduate,data-scientist
+91,53,64,47,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+45,89,76,82,"medicine, helping people, biology","empathy, memory",Graduation,healthcare-professional
+88,76,68,48,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+80,60,59,54,"web design, apps, software","react, node",12th,full-stack-web-developer
+84,89,53,45,"research, trends","sql, python",Postgraduate,data-scientist
+66,83,71,63,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+94,71,77,40,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+94,94,52,43,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+71,83,93,85,"science, patients","biology, chemistry",12th,healthcare-professional
+48,60,51,61,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+44,80,76,80,"science, patients","science, hard work",Graduation,healthcare-professional
+62,49,45,51,"law, debate, justice","writing, analysis",12th,corporate-lawyer
+80,61,49,59,"coding, UI/UX","creativity, coding",Graduation,full-stack-web-developer
+93,51,43,48,"leadership, business, startups","networking, strategy",Graduation,business-manager
+71,77,41,42,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+80,48,66,48,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+76,58,53,40,"finance, money, business","hard work, memory",12th,chartered-accountant
+98,75,44,63,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+77,47,55,67,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+87,62,54,68,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+77,58,56,41,"internet, building websites","html, css, javascript",10th,full-stack-web-developer
+100,51,59,64,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+83,92,66,45,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+87,44,68,51,"leadership, business, startups","communication, leadership",Graduation,business-manager
+77,46,61,44,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+68,64,51,70,"law, debate, justice","reading, communication",12th,corporate-lawyer
+74,51,57,47,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+90,91,59,61,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+81,60,48,42,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+86,74,58,47,"internet, building websites","html, css, javascript",12th,full-stack-web-developer
+92,76,67,47,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+95,41,45,45,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+99,60,74,67,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+62,54,43,49,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+82,62,76,49,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+69,83,42,55,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+85,89,55,47,"machine learning, automation, math","python, logical thinking",12th,ai-ml-engineer
+49,72,98,86,"science, patients","science, hard work",12th,healthcare-professional
+65,61,43,55,"corporate law, reading, politics","writing, analysis",Graduation,corporate-lawyer
+77,59,66,59,"coding, UI/UX","html, css, javascript",Graduation,full-stack-web-developer
+96,64,42,44,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+81,52,50,52,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+47,57,51,68,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+82,95,65,40,"artificial intelligence, coding, robots","python, logical thinking",12th,ai-ml-engineer
+67,73,49,58,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+87,61,69,42,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+91,85,80,63,"data, statistics, analytics","sql, python",Graduation,data-scientist
+93,72,61,55,"programming, algorithms","c++, math",12th,ai-ml-engineer
+100,86,51,63,"machine learning, automation, math","c++, math",Graduation,ai-ml-engineer
+63,40,56,65,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+70,80,90,89,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+100,73,72,68,"artificial intelligence, coding, robots","c++, math",12th,ai-ml-engineer
+71,51,66,52,"corporate law, reading, politics","reading, communication",Graduation,corporate-lawyer
+85,82,66,64,"coding, UI/UX","react, node",12th,full-stack-web-developer
+55,80,95,88,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+74,76,61,49,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+87,74,54,69,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+63,53,50,70,"strategy, operations","communication, leadership",Postgraduate,business-manager
+90,49,47,65,"accounts, taxation, auditing","numbers, accounting",Graduation,chartered-accountant
+72,63,43,48,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+89,71,41,43,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+40,44,61,41,"business law, arguments","reading, communication",12th,corporate-lawyer
+95,85,60,66,"programming, algorithms","python, logical thinking",12th,ai-ml-engineer
+87,59,40,59,"internet, building websites","react, node",Graduation,full-stack-web-developer
+91,92,50,52,"programming, algorithms","problem solving, coding",12th,ai-ml-engineer
+93,44,45,62,"economics, stock market","analytical skills, excel",Graduation,chartered-accountant
+53,72,78,81,"science, patients","empathy, memory",Graduation,healthcare-professional
+41,48,58,62,"corporate law, reading, politics","writing, analysis",12th,corporate-lawyer
+89,82,69,63,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+60,56,40,53,"coding, UI/UX","react, node",12th,full-stack-web-developer
+73,72,70,42,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+60,70,60,58,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+85,79,70,48,"data, statistics, analytics",data visualization,Postgraduate,data-scientist
+90,72,51,65,"cyber, computers, privacy","ethical hacking, scripting",12th,cybersecurity-analyst
+94,66,46,54,"cyber, computers, privacy","problem solving, attention to detail",12th,cybersecurity-analyst
+90,47,51,40,"strategy, operations","networking, strategy",Postgraduate,business-manager
+70,58,48,52,"business law, arguments","reading, communication",12th,corporate-lawyer
+66,80,76,58,"hacking, security, networks","linux, networking",Graduation,cybersecurity-analyst
+65,55,60,40,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+94,74,72,46,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+88,45,64,54,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+93,79,63,55,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+70,82,88,90,"science, patients","science, hard work",12th,healthcare-professional
+86,71,57,43,"programming, algorithms","problem solving, coding",Postgraduate,ai-ml-engineer
+76,71,52,55,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+48,91,76,84,"medicine, helping people, biology","science, hard work",12th,healthcare-professional
+80,54,62,59,"internet, building websites","creativity, coding",Graduation,full-stack-web-developer
+67,82,96,98,"science, patients","biology, chemistry",Graduation,healthcare-professional
+66,89,49,55,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+63,57,52,41,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+95,70,75,66,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+87,57,44,56,"leadership, business, startups","networking, strategy",Postgraduate,business-manager
+81,75,53,64,"marketing, management, sales","communication, leadership",Graduation,business-manager
+86,83,76,58,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+75,74,47,66,"economics, stock market","analytical skills, excel",12th,chartered-accountant
+98,76,54,63,"data, statistics, analytics",data visualization,Graduation,data-scientist
+80,78,72,47,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+100,86,50,51,"artificial intelligence, coding, robots","c++, math",Postgraduate,ai-ml-engineer
+53,67,95,83,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+66,50,46,51,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+83,67,54,69,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+95,90,53,63,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+92,85,66,42,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+90,89,62,48,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+85,64,66,46,"data, statistics, analytics",data visualization,Graduation,data-scientist
+70,75,53,46,"strategy, operations","networking, strategy",Postgraduate,business-manager
+82,94,56,44,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+75,88,78,58,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+70,82,78,86,"science, patients","empathy, memory",12th,healthcare-professional
+92,78,55,59,"business intelligence, numbers",data visualization,Graduation,data-scientist
+87,65,67,60,"accounts, taxation, auditing","analytical skills, excel",12th,chartered-accountant
+89,76,53,41,"research, trends","sql, python",Graduation,data-scientist
+71,52,50,50,"web design, apps, software","html, css, javascript",10th,full-stack-web-developer
+58,68,45,67,"law, debate, justice","reading, communication",12th,corporate-lawyer
+69,57,40,69,"internet, building websites","react, node",10th,full-stack-web-developer
+61,63,57,63,"internet, building websites","creativity, coding",10th,full-stack-web-developer
+40,95,95,98,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+93,73,62,56,"machine learning, automation, math","python, logical thinking",Postgraduate,ai-ml-engineer
+80,95,42,63,"investigation, tech","linux, networking",Graduation,cybersecurity-analyst
+85,71,61,41,"research, trends","sql, python",Postgraduate,data-scientist
+80,74,43,58,"economics, stock market","numbers, accounting",12th,chartered-accountant
+41,87,84,97,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+83,95,65,42,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+67,63,70,43,"law, debate, justice","writing, analysis",Graduation,corporate-lawyer
+75,79,93,97,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+66,79,55,44,"web design, apps, software","creativity, coding",12th,full-stack-web-developer
+92,42,64,45,"accounts, taxation, auditing","numbers, accounting",12th,chartered-accountant
+63,56,58,48,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+43,66,70,63,"law, debate, justice","reading, communication",Graduation,corporate-lawyer
+78,60,42,52,"leadership, business, startups","networking, strategy",Graduation,business-manager
+88,76,58,57,"coding, UI/UX","react, node",12th,full-stack-web-developer
+89,72,65,60,"finance, money, business","analytical skills, excel",Graduation,chartered-accountant
+80,79,78,96,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+89,70,65,63,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+43,95,75,85,"medicine, helping people, biology","empathy, memory",12th,healthcare-professional
+50,77,82,83,"healthcare, doctors, anatomy","empathy, memory",12th,healthcare-professional
+81,83,72,66,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+47,78,86,85,"science, patients","science, hard work",Graduation,healthcare-professional
+82,74,63,62,"cyber, computers, privacy","problem solving, attention to detail",Graduation,cybersecurity-analyst
+77,40,65,42,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+91,73,57,47,"business intelligence, numbers","statistics, excel",Postgraduate,data-scientist
+84,70,55,61,"data, statistics, analytics","statistics, excel",Graduation,data-scientist
+87,84,60,68,"data, statistics, analytics","sql, python",Postgraduate,data-scientist
+44,45,58,51,"business law, arguments","logical reasoning, public speaking",12th,corporate-lawyer
+60,54,42,45,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+62,82,71,66,"web design, apps, software","html, css, javascript",Graduation,full-stack-web-developer
+81,79,58,53,"programming, algorithms","c++, math",Graduation,ai-ml-engineer
+69,87,95,84,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+69,79,61,47,"investigation, tech","problem solving, attention to detail",12th,cybersecurity-analyst
+90,78,66,51,"research, trends","statistics, excel",Postgraduate,data-scientist
+78,95,58,46,"machine learning, automation, math","c++, math",Postgraduate,ai-ml-engineer
+89,88,50,56,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+69,44,65,63,"corporate law, reading, politics","logical reasoning, public speaking",12th,corporate-lawyer
+86,53,51,67,"marketing, management, sales","communication, leadership",Postgraduate,business-manager
+79,49,55,51,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+68,46,61,57,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+77,76,69,57,"marketing, management, sales","networking, strategy",Postgraduate,business-manager
+83,74,67,52,"machine learning, automation, math","problem solving, coding",12th,ai-ml-engineer
+91,70,59,42,"finance, money, business","numbers, accounting",12th,chartered-accountant
+81,74,72,44,"artificial intelligence, coding, robots","python, logical thinking",Postgraduate,ai-ml-engineer
+78,68,85,100,"science, patients","biology, chemistry",Graduation,healthcare-professional
+98,68,42,54,"economics, stock market","numbers, accounting",12th,chartered-accountant
+77,69,67,41,"hacking, security, networks","linux, networking",12th,cybersecurity-analyst
+78,41,47,52,"finance, money, business","numbers, accounting",Graduation,chartered-accountant
+81,73,51,57,"economics, stock market","numbers, accounting",Graduation,chartered-accountant
+77,75,75,59,"programming, algorithms","c++, math",Postgraduate,ai-ml-engineer
+90,77,59,55,"business intelligence, numbers","sql, python",Graduation,data-scientist
+67,68,45,44,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+44,58,62,68,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+65,44,59,47,"strategy, operations","teamwork, problem solving",Postgraduate,business-manager
+79,92,76,96,"medicine, helping people, biology","biology, chemistry",12th,healthcare-professional
+96,63,63,45,"research, trends","statistics, excel",Graduation,data-scientist
+94,40,55,42,"strategy, operations","networking, strategy",Graduation,business-manager
+72,63,52,40,"law, debate, justice","logical reasoning, public speaking",12th,corporate-lawyer
+62,95,100,87,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+89,63,41,62,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+98,66,71,66,"research, trends","statistics, excel",Postgraduate,data-scientist
+77,42,70,53,"business law, arguments","writing, analysis",12th,corporate-lawyer
+71,60,67,47,"marketing, management, sales","teamwork, problem solving",Graduation,business-manager
+75,81,92,90,"healthcare, doctors, anatomy","science, hard work",Graduation,healthcare-professional
+91,79,71,49,"data, statistics, analytics","sql, python",Graduation,data-scientist
+65,46,67,64,"leadership, business, startups","communication, leadership",Postgraduate,business-manager
+65,66,56,49,"coding, UI/UX","react, node",12th,full-stack-web-developer
+96,68,50,63,"accounts, taxation, auditing","analytical skills, excel",Graduation,chartered-accountant
+79,64,47,51,"internet, building websites","html, css, javascript",Graduation,full-stack-web-developer
+95,59,65,45,"economics, stock market","hard work, memory",Graduation,chartered-accountant
+80,70,83,96,"medicine, helping people, biology","biology, chemistry",Graduation,healthcare-professional
+67,88,93,87,"healthcare, doctors, anatomy","biology, chemistry",Graduation,healthcare-professional
+60,47,46,48,"leadership, business, startups","communication, leadership",Graduation,business-manager
+92,52,65,48,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+47,50,50,45,"business law, arguments","reading, communication",Graduation,corporate-lawyer
+42,48,42,68,"business law, arguments","writing, analysis",Graduation,corporate-lawyer
+83,89,77,51,"programming, algorithms","python, logical thinking",Postgraduate,ai-ml-engineer
+43,54,41,40,"law, debate, justice","logical reasoning, public speaking",Graduation,corporate-lawyer
+69,53,53,46,"business law, arguments","writing, analysis",12th,corporate-lawyer
+81,88,80,45,"business intelligence, numbers",data visualization,Postgraduate,data-scientist
+83,70,65,56,"data, statistics, analytics","statistics, excel",Postgraduate,data-scientist
+85,75,45,53,"hacking, security, networks","problem solving, attention to detail",Graduation,cybersecurity-analyst
+75,77,79,95,"science, patients","biology, chemistry",Graduation,healthcare-professional
+78,73,58,50,"machine learning, automation, math","python, logical thinking",Graduation,ai-ml-engineer
+78,47,55,53,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+67,84,64,42,"hacking, security, networks","problem solving, attention to detail",12th,cybersecurity-analyst
+85,73,70,52,"investigation, tech","ethical hacking, scripting",Graduation,cybersecurity-analyst
+88,74,52,67,"coding, UI/UX","html, css, javascript",10th,full-stack-web-developer
+90,56,69,48,"finance, money, business","hard work, memory",Graduation,chartered-accountant
+94,66,67,67,"hacking, security, networks","ethical hacking, scripting",12th,cybersecurity-analyst
+78,66,51,43,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+65,84,58,59,"investigation, tech","ethical hacking, scripting",12th,cybersecurity-analyst
+75,92,76,51,"cyber, computers, privacy","ethical hacking, scripting",Graduation,cybersecurity-analyst
+42,45,57,49,"corporate law, reading, politics","reading, communication",12th,corporate-lawyer
+62,62,58,55,"leadership, business, startups","teamwork, problem solving",Postgraduate,business-manager
+92,41,60,45,"finance, money, business","analytical skills, excel",12th,chartered-accountant
+67,85,47,68,"cyber, computers, privacy","linux, networking",Graduation,cybersecurity-analyst
+100,65,57,45,"business intelligence, numbers","sql, python",Postgraduate,data-scientist
+62,85,44,59,"internet, building websites","creativity, coding",12th,full-stack-web-developer
+66,91,40,40,"cyber, computers, privacy","linux, networking",12th,cybersecurity-analyst
+79,54,41,57,"strategy, operations","teamwork, problem solving",Graduation,business-manager
+46,95,83,88,"healthcare, doctors, anatomy","biology, chemistry",12th,healthcare-professional
+82,65,66,70,"business intelligence, numbers","statistics, excel",Graduation,data-scientist
+70,54,48,47,"business law, arguments","logical reasoning, public speaking",Graduation,corporate-lawyer
+70,46,65,69,"leadership, business, startups","teamwork, problem solving",Graduation,business-manager
+91,70,59,44,"machine learning, automation, math","problem solving, coding",Postgraduate,ai-ml-engineer
+88,52,61,69,"accounts, taxation, auditing","hard work, memory",12th,chartered-accountant

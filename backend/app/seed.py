@@ -292,14 +292,184 @@ CAREER_CATALOG = [
             },
         ],
     },
+    {
+        "slug": "chartered-accountant",
+        "title": "Chartered Accountant (CA)",
+        "summary": "Manage finance, audit, taxation, and corporate governance for organizations globally.",
+        "difficulty_level": "Very High",
+        "time_required": "4-5 years",
+        "outlook": "Ideal for students with strong numerical skills, patience, and business acumen.",
+        "fit_reason": "High demand in finance. Requires clearing highly competitive ICAI exams and completing rigorous articleship.",
+        "required_subjects": "Commerce, Accounts, Maths, Economics",
+        "keyword_profile": "finance,accounts,audit,taxation,ca,cma,business,economics,commerce",
+        "roadmap": [
+            {
+                "phase": "Beginner",
+                "step_order": 1,
+                "title": "Clear CA Foundation",
+                "description": "Register with ICAI and pass the CA Foundation exam (Principles of Accounting, Business Laws, Maths).",
+                "skill": "Accounting Fundamentals",
+                "resource": "ICAI Study Material, online coaching for CA Foundation",
+                "duration": "6 months",
+                "outcome": "You have a solid grasp of basic accounting and business laws.",
+            },
+            {
+                "phase": "Intermediate",
+                "step_order": 2,
+                "title": "CA Intermediate & Articleship",
+                "description": "Clear the CA Intermediate groups and secure an articleship under a practicing CA for 3 years.",
+                "skill": "Advanced Taxation & Auditing",
+                "resource": "ICAI Modules, Mock test papers, Practical training",
+                "duration": "3 years",
+                "outcome": "Practical exposure to real-world auditing, taxation, and compliance.",
+            },
+            {
+                "phase": "Advanced",
+                "step_order": 3,
+                "title": "CA Final Exam",
+                "description": "Clear the rigorous CA Final exams while completing your articleship.",
+                "skill": "Corporate Financial Reporting",
+                "resource": "Intensive revision test papers (RTPs), CA Final coaching",
+                "duration": "1 year",
+                "outcome": "You become a certified Chartered Accountant.",
+            },
+        ],
+        "insights": [
+            {
+                "quote": "Accounting is the language of business.",
+                "author": "Warren Buffett",
+                "source": "Investment Principles",
+                "context": "Mastering accounting gives you the foundation to understand and advise any business globally.",
+            },
+            {
+                "quote": "Success in CA is 99% perspiration and 1% inspiration.",
+                "author": "Anonymous CA",
+                "source": "ICAI Community",
+                "context": "The very low pass rates mean that disciplined study habits matter far more than raw intelligence.",
+            },
+        ],
+    },
+    {
+        "slug": "corporate-lawyer",
+        "title": "Corporate Lawyer",
+        "summary": "Navigate legal frameworks, corporate mergers, intellectual property, and litigation.",
+        "difficulty_level": "High",
+        "time_required": "5 years",
+        "outlook": "Great for students with excellent reading, analytical, and communication skills.",
+        "fit_reason": "A 5-year integrated BA LLB through top National Law Universities (NLUs) provides high entry salaries.",
+        "required_subjects": "English, History, Political Science, Logical Reasoning",
+        "keyword_profile": "law,legal,lawyer,corporate,clat,litigation,judiciary,advocate,arts",
+        "roadmap": [
+            {
+                "phase": "Beginner",
+                "step_order": 1,
+                "title": "Crack CLAT or Law Entrances",
+                "description": "Prepare for the Common Law Admission Test (CLAT) focusing on reading comprehension, logical reasoning, and current affairs.",
+                "skill": "Logical Reasoning & Reading",
+                "resource": "CLAT past papers, daily newspaper reading (The Hindu)",
+                "duration": "1 year",
+                "outcome": "Secure admission into a top National Law University (NLU) or reputed law school.",
+            },
+            {
+                "phase": "Intermediate",
+                "step_order": 2,
+                "title": "Law School & Internships",
+                "description": "Study constitutional, criminal, and corporate law. Intern with NGOs, trial courts, and law firms.",
+                "skill": "Legal Drafting & Research",
+                "resource": "SCC Online, Moot Court competitions",
+                "duration": "3 years",
+                "outcome": "You can draft legal notices and understand judicial precedents.",
+            },
+            {
+                "phase": "Advanced",
+                "step_order": 3,
+                "title": "Specialization & Placement",
+                "description": "Focus on corporate law, intellectual property, or litigation. Secure pre-placement offers (PPOs) in top firms.",
+                "skill": "Corporate Negotiation",
+                "resource": "Tier-1 Law Firm internships",
+                "duration": "1 year",
+                "outcome": "You graduate as an advocate ready for corporate or litigation roles.",
+            },
+        ],
+        "insights": [
+            {
+                "quote": "The leading rule for the lawyer, as for the man of every other calling, is diligence.",
+                "author": "Abraham Lincoln",
+                "source": "Notes for a Law Lecture",
+                "context": "Legal practice requires extensive reading, preparation, and attention to the smallest details.",
+            },
+            {
+                "quote": "A lawyer’s time and advice are his stock in trade.",
+                "author": "Abraham Lincoln",
+                "source": "Legal quotes",
+                "context": "Your ability to communicate complex legal realities clearly is what clients will pay for.",
+            },
+        ],
+    },
+    {
+        "slug": "business-manager",
+        "title": "Business Manager (MBA)",
+        "summary": "Lead operations, marketing, or strategy for enterprises by combining analytical and people skills.",
+        "difficulty_level": "Medium to High",
+        "time_required": "2 years (Post Graduation)",
+        "outlook": "Perfect for students with leadership qualities and cross-functional interests.",
+        "fit_reason": "High-paying roles await those who graduate from top B-Schools (IIMs). Requires cracking the CAT exam.",
+        "required_subjects": "Maths, English, Business Studies, Economics",
+        "keyword_profile": "business,management,mba,cat,marketing,operations,strategy,finance,manager",
+        "roadmap": [
+            {
+                "phase": "Beginner",
+                "step_order": 1,
+                "title": "Build a Strong Undergraduate Profile",
+                "description": "Maintain high grades in your B.Com/BBA/B.Tech, join leadership roles in college clubs, and prepare for CAT.",
+                "skill": "Quantitative Aptitude & Leadership",
+                "resource": "Arun Sharma CAT books, college leadership roles",
+                "duration": "2 years",
+                "outcome": "You are ready to compete in the CAT/XAT exams with a solid profile.",
+            },
+            {
+                "phase": "Intermediate",
+                "step_order": 2,
+                "title": "Crack CAT and B-School Interviews",
+                "description": "Score 95+ percentile in CAT and clear the grueling Group Discussion / Personal Interview (GD/PI) rounds.",
+                "skill": "Verbal Ability & Interviewing",
+                "resource": "CAT mock tests, PI coaching",
+                "duration": "6 months",
+                "outcome": "Admission into a top-tier Indian Institute of Management (IIM) or equivalent.",
+            },
+            {
+                "phase": "Advanced",
+                "step_order": 3,
+                "title": "MBA and Corporate Placements",
+                "description": "Specialize in Marketing, Finance, or Operations. Secure a top summer internship leading to a PPO.",
+                "skill": "Strategic Management",
+                "resource": "Case studies (HBR), corporate internships",
+                "duration": "2 years",
+                "outcome": "You graduate ready for mid-to-senior management roles with high compensation.",
+            },
+        ],
+        "insights": [
+            {
+                "quote": "Management is doing things right; leadership is doing the right things.",
+                "author": "Peter Drucker",
+                "source": "Essential Drucker",
+                "context": "MBA programs teach management, but the industry rewards those who show genuine leadership.",
+            },
+            {
+                "quote": "The best way to predict the future is to create it.",
+                "author": "Peter Drucker",
+                "source": "Business quotes",
+                "context": "Business strategy isn't just analyzing data; it's about making bold bets on market direction.",
+            },
+        ],
+    },
 ]
 
-
 def seed_database(db: Session) -> None:
-    if db.query(Admin).filter(Admin.email == "admin@edupath.com").first() is None:
+    if db.query(Admin).filter(Admin.email == "Shreekrishna@2003").first() is None:
         default_admin = Admin(
-            email="admin@edupath.com",
-            password_hash=pwd_context.hash("admin123")
+            email="Shreekrishna@2003",
+            password_hash=pwd_context.hash("Radhakrishna@2003")
         )
         db.add(default_admin)
         db.flush()

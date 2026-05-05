@@ -15,7 +15,7 @@ export default function ProgressPanel({ progress = {}, onSave, savingSubject }) 
         <p className="eyebrow">Progress Tracking</p>
         <h2>Record subject-wise momentum</h2>
         <p className="muted">
-          Updating progress helps EduPath rebalance your weekly plan toward weak or unfinished areas.
+          Updating progress helps EDUPATH rebalance your weekly plan toward weak or unfinished areas.
         </p>
       </div>
 

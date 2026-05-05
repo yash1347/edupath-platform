@@ -6,6 +6,7 @@ const INITIAL_FORM = {
   phone: "",
   state: "",
   education_level: "",
+  stream: "",
   dream: "",
   career_choice: "",
   interests: "",
@@ -15,6 +16,34 @@ const INITIAL_FORM = {
   chemistry: "",
   biology: "",
 };
+
+const INTEREST_OPTIONS = [
+  "Coding and Software",
+  "Science and Research",
+  "Healthcare and Medicine",
+  "Business and Management",
+  "Design and Creativity",
+  "Finance and Accounting",
+  "Law and Humanities",
+  "Engineering and Mechanics",
+  "Marketing and Content",
+  "Data and Analytics"
+];
+
+const SKILL_OPTIONS = [
+  "Problem Solving",
+  "Communication",
+  "Logical Reasoning",
+  "Leadership",
+  "Analytical Thinking",
+  "Creativity",
+  "Technical Troubleshooting",
+  "Public Speaking",
+  "Research and Writing",
+  "Project Management"
+];
+
+const STREAM_OPTIONS = ["PCM", "PCB", "PCMB", "Commerce", "Arts"];
 
 const EDUCATION_LEVEL_MAP = {
   "After 10th": "10th",
@@ -73,7 +102,17 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
   );
 
   const normalizedEducationLevel = normalizeEducationLevel(form.education_level);
-  const currentSubjectFields = SUBJECT_LABELS[normalizedEducationLevel] || DEFAULT_SUBJECTS;
+  let currentSubjectFields = SUBJECT_LABELS[normalizedEducationLevel] || DEFAULT_SUBJECTS;
+
+  if (normalizedEducationLevel === "12th" && form.stream) {
+    if (form.stream === "PCM") {
+      currentSubjectFields = currentSubjectFields.filter((f) => f.key !== "biology");
+    } else if (form.stream === "PCB") {
+      currentSubjectFields = currentSubjectFields.filter((f) => f.key !== "maths");
+    } else if (form.stream === "Commerce" || form.stream === "Arts") {
+      currentSubjectFields = []; // Hide all science subjects for Commerce/Arts
+    }
+  }
 
   const stagePrompt = {
     "10th": "What subjects interest you most today? What is your dream career?",
@@ -93,11 +132,10 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    const scores = ["maths", "physics", "chemistry", "biology"].map((subject) =>
-      Number(form[subject])
-    );
+    const activeSubjects = currentSubjectFields.map((f) => f.key);
+    const activeScores = activeSubjects.map((subject) => Number(form[subject]));
 
-    if (scores.some((score) => Number.isNaN(score) || score < 0 || score > 100)) {
+    if (activeScores.some((score) => Number.isNaN(score) || score < 0 || score > 100)) {
       setError("Marks should be between 0 and 100.");
       return;
     }
@@ -111,10 +149,10 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
     onSubmit({
       ...form,
       education_level: normalizedEducationLevel,
-      maths: Number(form.maths),
-      physics: Number(form.physics),
-      chemistry: Number(form.chemistry),
-      biology: Number(form.biology),
+      maths: activeSubjects.includes("maths") ? (Number(form.maths) || 0) : 0,
+      physics: activeSubjects.includes("physics") ? (Number(form.physics) || 0) : 0,
+      chemistry: activeSubjects.includes("chemistry") ? (Number(form.chemistry) || 0) : 0,
+      biology: activeSubjects.includes("biology") ? (Number(form.biology) || 0) : 0,
     });
   };
 
@@ -123,7 +161,7 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
       <div className="panel-header">
         <p className="eyebrow">Student Intake</p>
         <h2>Answer a few questions and get a personalised roadmap.</h2>
-        <p className="muted">EduPath AI will use your stage, marks, interests, and dreams to recommend your strongest path.</p>
+        <p className="muted">EDUPATH will use your stage, marks, interests, and dreams to recommend your strongest path.</p>
       </div>
 
       <form className="form-shell" onSubmit={handleSubmit}>
@@ -191,6 +229,25 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
             </select>
           </label>
 
+          {normalizedEducationLevel === "12th" && (
+            <label className="field field-wide">
+              <span>Stream</span>
+              <select
+                name="stream"
+                value={form.stream}
+                onChange={handleChange}
+                required
+              >
+                <option value="">Select your stream</option>
+                {STREAM_OPTIONS.map((option) => (
+                  <option key={option} value={option}>
+                    {option}
+                  </option>
+                ))}
+              </select>
+            </label>
+          )}
+
           <label className="field field-wide">
             <span>Why this stage?</span>
             <textarea
@@ -233,26 +290,32 @@ export default function Form({ onSubmit, loading, educationLevels = [], initialD
 
           <label className="field field-wide">
             <span>What are you interested in?</span>
-            <textarea
+            <select
               name="interests"
-              rows="3"
               value={form.interests}
               onChange={handleChange}
-              placeholder="I enjoy coding, design, science, and creative work..."
               required
-            />
+            >
+              <option value="">Select your primary interest</option>
+              {INTEREST_OPTIONS.map((opt) => (
+                <option key={opt} value={opt}>{opt}</option>
+              ))}
+            </select>
           </label>
 
           <label className="field field-wide">
             <span>What are your strong skills?</span>
-            <textarea
+            <select
               name="skills"
-              rows="3"
               value={form.skills}
               onChange={handleChange}
-              placeholder="Problem solving, communication, research, leadership..."
               required
-            />
+            >
+              <option value="">Select your primary skill</option>
+              {SKILL_OPTIONS.map((opt) => (
+                <option key={opt} value={opt}>{opt}</option>
+              ))}
+            </select>
           </label>
 
           <div className="field field-wide">

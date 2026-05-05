@@ -44,19 +44,21 @@ def build_focus_subjects(required_subjects_csv: str, weak_subjects: list[str], s
     priorities = defaultdict(lambda: {"hours": 2.0, "objective": "Revise concepts and solve practice questions."})
 
     for subject in base_subjects:
-        priorities[subject]
-
-    for subject in weak_subjects:
-        priorities[subject] = {
-            "hours": 2.5,
-            "objective": "Recover weak concepts with focused revision and active practice.",
-        }
-
-    for subject in strong_subjects:
-        priorities[subject] = {
-            "hours": 1.25,
-            "objective": "Maintain strength through short practice and spaced review.",
-        }
+        if subject in weak_subjects:
+            priorities[subject] = {
+                "hours": 2.5,
+                "objective": "Recover weak concepts with focused revision and active practice.",
+            }
+        elif subject in strong_subjects:
+            priorities[subject] = {
+                "hours": 1.25,
+                "objective": "Maintain strength through short practice and spaced review.",
+            }
+        else:
+            priorities[subject] = {
+                "hours": 2.0,
+                "objective": "Study concepts and solve practice questions."
+            }
 
     return [{"subject": subject, **payload} for subject, payload in priorities.items()]
 

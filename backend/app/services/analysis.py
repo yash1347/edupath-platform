@@ -41,6 +41,8 @@ def analyze_marks(
     interest: str = "",
     skills: str = "",
     education_level: str = "",
+    stream: str | None = None,
+    dream: str = ""
 ) -> dict:
     ordered_marks = OrderedDict((subject, int(marks[subject])) for subject in SUBJECTS)
     strong_subjects = [subject for subject, score in ordered_marks.items() if score >= 75]
@@ -50,11 +52,11 @@ def analyze_marks(
         "strong_subjects": strong_subjects,
         "weak_subjects": weak_subjects,
         "score_bands": {subject: band_for_marks(score) for subject, score in ordered_marks.items()},
-        "matches": score_careers(ordered_marks, interest, skills, education_level),
+        "matches": score_careers(ordered_marks, interest, skills, education_level, stream, dream),
     }
 
 
-def score_careers(marks: OrderedDict[str, int], interest: str, skills: str, education_level: str) -> list[dict]:
+def score_careers(marks: OrderedDict[str, int], interest: str, skills: str, education_level: str, stream: str | None, dream: str) -> list[dict]:
     profile_text = f"{interest} {skills}".lower()
     education = education_level.lower()
     results = []
@@ -66,8 +68,27 @@ def score_careers(marks: OrderedDict[str, int], interest: str, skills: str, educ
         for token, boosts in EDUCATION_BONUSES.items():
             if token in education:
                 education_score += boosts.get(career_slug, 0)
+                
+        # Boost based on stream
+        stream_score = 0
+        if stream:
+            st = stream.lower()
+            if "pcm" in st and career_slug in ["ai-ml-engineer", "full-stack-web-developer", "data-scientist"]:
+                stream_score += 15
+            elif "pcb" in st and career_slug == "healthcare-professional":
+                stream_score += 30
+            elif "commerce" in st and career_slug in ["chartered-accountant", "business-manager"]:
+                stream_score += 25
+            elif "arts" in st and career_slug in ["corporate-lawyer"]:
+                stream_score += 20
+                
+        # Boost based on dream
+        dream_score = 0
+        if dream:
+            dr = dream.lower()
+            dream_score = sum(bonus for keyword, bonus in KEYWORD_BONUSES[career_slug].items() if keyword in dr) * 1.5
 
-        total_score = round(subject_score + keyword_score + education_score, 2)
+        total_score = round(subject_score + keyword_score + education_score + stream_score + dream_score, 2)
         results.append(
             {
                 "career_slug": career_slug,

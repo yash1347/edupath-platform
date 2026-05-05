@@ -5,7 +5,7 @@ export default function FutureReady({ items = [] }) {
     <section className="panel">
       <div className="panel-header">
         <p className="eyebrow">Future Ready</p>
-        <h2>What EduPath AI can expand into next</h2>
+        <h2>What EDUPATH can expand into next</h2>
       </div>
 
       <div className="future-grid">

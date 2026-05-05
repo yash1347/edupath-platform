@@ -1,1 +1,1 @@
-"""Domain services for EduPath AI."""
+"""Domain services for EDUPATH."""

@@ -15,7 +15,7 @@ jest.mock("./api", () => ({
 
 const App = require("./App").default;
 
-test("renders EduPath AI hero text", async () => {
+test("renders EDUPATH hero text", async () => {
   render(<App />);
   expect(await screen.findByText(/career clarity for students/i)).toBeInTheDocument();
 });

@@ -24,7 +24,7 @@ if not settings.database_url.startswith("sqlite"):
         with engine.connect():
             pass
     except SQLAlchemyError:
-        engine = build_engine("sqlite:///./edupath_ai.db")
+        engine = build_engine("sqlite:///./EDUPATH_ai.db")
 
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False, future=True)
 

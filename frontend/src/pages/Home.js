@@ -25,7 +25,7 @@ function Hero({ analysis }) {
   return (
     <section className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">EduPath AI</p>
+        <p className="eyebrow">EDUPATH</p>
         <h1>Career clarity for students who are unsure what comes next.</h1>
         <p className="hero-text">
           Analyze marks, interest, skills, and progress to generate a realistic career direction, roadmap,
@@ -91,9 +91,11 @@ export default function Home() {
       localStorage.setItem("studentUserId", response.user_id);
       setNotice("Live analysis created and persisted successfully.");
     } catch (requestError) {
-      setError(
-        requestError?.response?.data?.detail || "Analysis failed. Please verify the backend and database setup."
-      );
+      const detail = requestError?.response?.data?.detail;
+      const errorMessage = Array.isArray(detail)
+        ? detail.map((err) => `${err.loc?.slice(-1)}: ${err.msg}`).join(", ")
+        : detail || "Analysis failed. Please verify the backend and database setup.";
+      setError(errorMessage);
     } finally {
       setLoading(false);
     }

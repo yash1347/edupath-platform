@@ -7,9 +7,13 @@ from pydantic import BaseModel, ConfigDict, Field
 class StudentAnalysisRequest(BaseModel):
     name: str = Field(min_length=2, max_length=120)
     email: str = Field(min_length=5, max_length=255)
+    phone: str | None = None
+    state: str | None = None
     education_level: str = Field(min_length=2, max_length=80)
-    interests: str = Field(min_length=2, max_length=400)
-    skills: str = Field(min_length=2, max_length=400)
+    stream: str | None = None
+    interests: str = Field(max_length=400, default="")
+    skills: str = Field(max_length=400, default="")
+    dream: str = Field(max_length=400, default="")
     maths: int = Field(ge=0, le=100)
     physics: int = Field(ge=0, le=100)
     chemistry: int = Field(ge=0, le=100)
@@ -63,6 +67,18 @@ class CareerRecommendationResponse(BaseModel):
     outlook: str
     fit_reason: str
     required_subjects: list[str]
+    estimated_salary: str
+
+
+class GovtJobResponse(BaseModel):
+    id: str
+    title: str
+    qualification: str
+    exam_body: str
+    age_criteria: str
+    selection_process: list[str]
+    syllabus_summary: str
+    estimated_salary: str
 
 
 class StudyPlanEntryResponse(BaseModel):
@@ -158,8 +174,20 @@ class AdminDashboardUserResponse(BaseModel):
     id: int
     name: str
     email: str
+    phone: str | None = None
+    state: str | None = None
+    interests: str = ""
     education_level: str
     recommended_path: str | None = None
     success_probability: float | None = None
     completed_steps: int = 0
     total_steps: int = 0
+
+
+class RoadmapStepUpdateRequest(BaseModel):
+    title: str | None = None
+    description: str | None = None
+    skill: str | None = None
+    resource: str | None = None
+    duration: str | None = None
+    outcome: str | None = None

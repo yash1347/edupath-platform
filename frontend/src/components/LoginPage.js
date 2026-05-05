@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { GoogleLogin } from '@react-oauth/google';
+import { jwtDecode } from "jwt-decode";
 
 const INITIAL_LOGIN = {
   name: "",
@@ -19,12 +21,22 @@ export default function LoginPage({ onLogin }) {
     }));
   };
 
-  const handleGoogleSignIn = () => {
-    setForm((current) => ({
-      ...current,
-      email: "user@gmail.com",
-    }));
-    setError("Google sign-in is not yet connected. Please verify your email and continue.");
+  const handleGoogleSuccess = (credentialResponse) => {
+    try {
+      const decoded = jwtDecode(credentialResponse.credential);
+      setForm((current) => ({
+        ...current,
+        name: decoded.name || "",
+        email: decoded.email || "",
+      }));
+      setError("");
+    } catch (err) {
+      setError("Failed to decode Google profile. Please fill details manually.");
+    }
+  };
+
+  const handleGoogleError = () => {
+    setError("Google sign-in failed or was cancelled.");
   };
 
   const handleSubmit = (event) => {
@@ -42,21 +54,21 @@ export default function LoginPage({ onLogin }) {
     <main className="page-shell">
       <section className="panel auth-panel">
         <div className="panel-header">
-          <p className="eyebrow">Welcome to EduPath</p>
+          <p className="eyebrow">Welcome to EDUPATH</p>
           <h2>Sign in and build a personalised roadmap for your next stage.</h2>
           <p className="muted">
             Use your Google email, phone number, and state. After login, select your current level and answer interest questions to receive a tailored roadmap.
           </p>
         </div>
 
-        <div className="auth-actions">
-          <button
-            type="button"
-            className="google-button"
-            onClick={handleGoogleSignIn}
-          >
-            Continue with Google
-          </button>
+        <div className="auth-actions" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '16px' }}>
+          <GoogleLogin
+            onSuccess={handleGoogleSuccess}
+            onError={handleGoogleError}
+            useOneTap
+            shape="pill"
+            theme="filled_black"
+          />
           <span className="muted">Or fill in your details below to continue.</span>
         </div>
 

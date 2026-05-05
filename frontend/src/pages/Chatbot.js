@@ -4,7 +4,7 @@ import client from '../api';
 
 export default function Chatbot() {
   const [messages, setMessages] = useState([
-    { id: 1, type: 'bot', text: 'Hello! I am your EduPath AI Mentor. Ask me any questions about learning paths, career outlooks, or study motivation!' }
+    { id: 1, type: 'bot', text: 'Hello! I am your EDUPATH Mentor. Ask me any questions about learning paths, career outlooks, or study motivation!' }
   ]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -52,7 +52,7 @@ export default function Chatbot() {
             <div key={m.id} className={`chat-message ${m.type}`} style={{ display: 'flex', gap: '12px', alignItems: 'flex-start' }}>
               {m.type === 'bot' && <div style={{ background: '#fff', padding: '6px', borderRadius: '50%' }}><Bot size={20} color="var(--primary)" /></div>}
               {m.type === 'user' && <div style={{ background: 'rgba(255,255,255,0.2)', padding: '6px', borderRadius: '50%' }}><UserIcon size={20} color="#fff" /></div>}
-              <div style={{ lineHeight: 1.5, marginTop: '4px' }}>
+              <div style={{ lineHeight: 1.5, marginTop: '4px', whiteSpace: 'pre-wrap' }}>
                 {m.text}
               </div>
             </div>

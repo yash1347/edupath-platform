@@ -30,6 +30,7 @@ from app.schemas import (
     ActionResponse,
     BootstrapResponse,
     DashboardResponse,
+    GovtJobResponse,
     ProgressUpdateRequest,
     StatusResponse,
     StudentAnalysisRequest,
@@ -41,14 +42,19 @@ from app.schemas import (
     TokenResponse,
     AdminDashboardUserResponse,
     CareerRecommendationResponse,
+    RoadmapPhaseResponse,
+    RoadmapStepResponse,
+    RoadmapStepUpdateRequest,
 )
 from app.seed import seed_database
+from app.data.govt_jobs import GOVT_JOBS_CATALOG
 from app.services.analysis import analyze_marks, confidence_from_matches, find_career_by_slug
 from app.services.planner import generate_study_plan
+from app.services.ml_prediction import predict_career
 
 settings = get_settings()
 
-SECRET_KEY = os.getenv("SECRET_KEY", "edupath-super-secret")
+SECRET_KEY = os.getenv("SECRET_KEY", "EDUPATH-super-secret")
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 300
 
@@ -126,6 +132,18 @@ def bootstrap_data(db: Session = Depends(get_db)) -> BootstrapResponse:
     )
 
 
+CAREER_SALARY_MAP = {
+    "ai-ml-engineer": "₹40,000 - ₹70,000 / month",
+    "data-scientist": "₹35,000 - ₹60,000 / month",
+    "full-stack-web-developer": "₹30,000 - ₹50,000 / month",
+    "cybersecurity-analyst": "₹30,000 - ₹55,000 / month",
+    "healthcare-professional": "₹40,000 - ₹80,000 / month",
+    "chartered-accountant": "₹35,000 - ₹60,000 / month",
+    "corporate-lawyer": "₹35,000 - ₹65,000 / month",
+    "business-manager": "₹55,000 - ₹95,000 / month",
+}
+
+
 @app.get(f"{settings.api_prefix}/opportunities", response_model=list[CareerRecommendationResponse])
 def get_opportunities(db: Session = Depends(get_db)):
     careers = db.query(CareerPath).order_by(CareerPath.title).all()
@@ -139,9 +157,15 @@ def get_opportunities(db: Session = Depends(get_db)):
             outlook=c.outlook,
             fit_reason=c.fit_reason,
             required_subjects=[i.strip() for i in c.required_subjects.split(",") if i.strip()],
+            estimated_salary=CAREER_SALARY_MAP.get(c.slug, "Not available"),
         )
         for c in careers
     ]
+
+
+@app.get(f"{settings.api_prefix}/govt-jobs", response_model=list[GovtJobResponse])
+def get_govt_jobs():
+    return GOVT_JOBS_CATALOG
 
 
 @app.post(f"{settings.api_prefix}/admin/login", response_model=TokenResponse)
@@ -182,13 +206,64 @@ def get_admin_users(db: Session = Depends(get_db), current_admin: Admin = Depend
             id=user.id,
             name=user.name,
             email=user.email,
-            education_level=user.education_level,
+            phone=user.phone,
+            state=user.state,
+            interests=user.interests,
+            education_level=user.education_level + (f" ({user.stream})" if user.stream else ""),
             recommended_path=recommended_path,
             success_probability=confidence,
             completed_steps=completed_steps,
             total_steps=total_steps
         ))
     return response
+
+
+@app.get(f"{settings.api_prefix}/admin/careers", response_model=list[dict])
+def get_admin_careers(db: Session = Depends(get_db), current_admin: Admin = Depends(get_current_admin)):
+    careers = db.query(CareerPath).options(joinedload(CareerPath.roadmap_steps)).all()
+    response = []
+    for c in careers:
+        phases = {}
+        for step in c.roadmap_steps:
+            phases.setdefault(step.phase, []).append({
+                "id": step.id,
+                "phase": step.phase,
+                "step_order": step.step_order,
+                "title": step.title,
+                "description": step.description,
+                "skill": step.skill,
+                "resource": step.resource,
+                "duration": step.duration,
+                "outcome": step.outcome,
+                "completed": False
+            })
+        roadmap = [{"phase": phase, "steps": steps} for phase, steps in phases.items()]
+        response.append({
+            "id": c.id,
+            "slug": c.slug,
+            "title": c.title,
+            "roadmap": roadmap
+        })
+    return response
+
+
+@app.put(f"{settings.api_prefix}/admin/roadmap-steps/{{step_id}}", response_model=ActionResponse)
+def update_roadmap_step(step_id: int, payload: RoadmapStepUpdateRequest, db: Session = Depends(get_db), current_admin: Admin = Depends(get_current_admin)):
+    step = db.get(RoadmapStep, step_id)
+    if not step:
+        raise HTTPException(status_code=404, detail="Roadmap step not found")
+    
+    if payload.title is not None: step.title = payload.title
+    if payload.description is not None: step.description = payload.description
+    if payload.skill is not None: step.skill = payload.skill
+    if payload.resource is not None: step.resource = payload.resource
+    if payload.duration is not None: step.duration = payload.duration
+    if payload.outcome is not None: step.outcome = payload.outcome
+    
+    db.commit()
+    return ActionResponse(message="Roadmap step updated successfully")
+
+
 
 
 @app.post(f"{settings.api_prefix}/chat", response_model=ChatResponse)
@@ -218,7 +293,7 @@ async def chat_with_gpt(payload: ChatRequest, db: Session = Depends(get_db)):
         completion = await client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": f"You are an expert career counselor for EduPath. The user is a student named {user.name} ({user.education_level}). {context} Give concise, encouraging advice."},
+                {"role": "system", "content": f"You are an expert career counselor for EDUPATH. The user is a student named {user.name} ({user.education_level}). {context} Give concise, encouraging advice."},
                 {"role": "user", "content": payload.message}
             ],
             max_tokens=300
@@ -235,7 +310,10 @@ def create_analysis(payload: StudentAnalysisRequest, db: Session = Depends(get_d
         user = User(
             name=payload.name,
             email=payload.email,
+            phone=payload.phone,
+            state=payload.state,
             education_level=payload.education_level,
+            stream=payload.stream,
             interests=payload.interests,
             skills=payload.skills,
         )
@@ -243,7 +321,10 @@ def create_analysis(payload: StudentAnalysisRequest, db: Session = Depends(get_d
         db.flush()
     else:
         user.name = payload.name
+        user.phone = payload.phone
+        user.state = payload.state
         user.education_level = payload.education_level
+        user.stream = payload.stream
         user.interests = payload.interests
         user.skills = payload.skills
 
@@ -263,10 +344,26 @@ def create_analysis(payload: StudentAnalysisRequest, db: Session = Depends(get_d
         interest=payload.interests,
         skills=payload.skills,
         education_level=payload.education_level,
+        stream=payload.stream,
+        dream=payload.dream
     )
-    matches = analysis_result["matches"]
-    confidence = confidence_from_matches(matches)
-    recommended = find_career_by_slug(career_paths, matches[0]["career_slug"])
+    
+    # ML Model Prediction
+    ml_result = predict_career(
+        maths=payload.maths,
+        physics=payload.physics,
+        chemistry=payload.chemistry,
+        biology=payload.biology,
+        interests=payload.interests,
+        skills=payload.skills,
+        education_level=payload.education_level,
+        stream=payload.stream,
+        dream=payload.dream
+    )
+    
+    matches = ml_result["matches"]
+    confidence = ml_result["confidence_score"]
+    recommended = find_career_by_slug(career_paths, ml_result["predicted_career"])
 
     analysis = Analysis(
         user=user,
@@ -329,6 +426,22 @@ def create_analysis(payload: StudentAnalysisRequest, db: Session = Depends(get_d
     if dashboard is None:
         raise HTTPException(status_code=500, detail="Failed to build dashboard response.")
     return dashboard
+
+
+@app.post(f"{settings.api_prefix}/predict-career")
+def api_predict_career(payload: StudentAnalysisRequest):
+    result = predict_career(
+        maths=payload.maths,
+        physics=payload.physics,
+        chemistry=payload.chemistry,
+        biology=payload.biology,
+        interests=payload.interests,
+        skills=payload.skills,
+        education_level=payload.education_level,
+        stream=payload.stream,
+        dream=payload.dream
+    )
+    return result
 
 
 @app.get(f"{settings.api_prefix}/dashboard/{{user_id}}", response_model=DashboardResponse)
@@ -516,6 +629,7 @@ def fetch_dashboard_payload(user_id: int, db: Session) -> DashboardResponse | No
             "outlook": career.outlook,
             "fit_reason": career.fit_reason,
             "required_subjects": [item.strip() for item in career.required_subjects.split(",") if item.strip()],
+            "estimated_salary": CAREER_SALARY_MAP.get(career.slug, "Not available"),
         },
         career_matches=[
             {
